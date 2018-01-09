@@ -1,0 +1,3886 @@
+**Team:  Rissaki Agapi - Nikos Tziavelis**
+**  Results of input file: ../inputs/input5.txt   **
+
+Robot 1 considering position (34,6) at step 0
+Robot 1 considering position (33,6) at step 1
+Robot 1 considering position (34,7) at step 1
+Robot 1 considering position (32,6) at step 2
+Robot 1 considering position (33,7) at step 2
+Robot 1 considering position (32,7) at step 3
+Robot 1 considering position (33,8) at step 3
+Robot 1 considering position (31,7) at step 4
+Robot 1 considering position (32,8) at step 4
+Robot 1 considering position (31,8) at step 5
+Robot 1 considering position (32,9) at step 5
+Robot 1 considering position (33,9) at step 4
+Robot 1 considering position (32,10) at step 6
+Robot 1 considering position (33,10) at step 5
+Robot 1 considering position (32,11) at step 7
+Robot 1 considering position (33,11) at step 6
+Robot 1 considering position (30,7) at step 5
+Robot 1 considering position (32,12) at step 8
+Robot 1 considering position (33,12) at step 7
+Robot 1 considering position (30,8) at step 6
+Robot 1 considering position (31,12) at step 9
+Robot 1 considering position (32,13) at step 9
+Robot 1 considering position (33,13) at step 8
+Robot 1 considering position (30,9) at step 7
+Robot 1 considering position (33,14) at step 9
+Robot 1 considering position (30,10) at step 8
+Robot 1 considering position (30,12) at step 10
+Robot 1 considering position (30,11) at step 9
+Robot 1 considering position (31,13) at step 10
+Robot 1 considering position (29,11) at step 10
+Robot 1 considering position (31,14) at step 11
+Robot 1 considering position (28,11) at step 11
+Robot 1 considering position (31,15) at step 12
+Robot 1 considering position (32,14) at step 10
+Robot 1 considering position (33,15) at step 10
+Robot 1 considering position (32,15) at step 11
+Robot 1 considering position (33,16) at step 11
+Robot 1 considering position (32,16) at step 12
+Robot 1 considering position (29,10) at step 9
+Robot 1 considering position (29,12) at step 11
+Robot 1 considering position (28,10) at step 10
+Robot 1 considering position (29,13) at step 12
+Robot 1 considering position (27,10) at step 11
+Robot 1 considering position (29,14) at step 13
+Robot 1 considering position (26,10) at step 12
+Robot 1 considering position (29,15) at step 14
+Robot 1 considering position (30,15) at step 13
+Robot 1 considering position (29,16) at step 15
+Robot 1 considering position (30,16) at step 14
+Robot 1 considering position (28,16) at step 16
+Robot 1 considering position (30,17) at step 15
+Robot 1 considering position (27,16) at step 17
+Robot 1 considering position (28,17) at step 17
+Robot 1 considering position (30,18) at step 16
+Robot 1 considering position (26,16) at step 18
+Robot 1 considering position (27,17) at step 18
+Robot 1 considering position (28,18) at step 18
+Robot 1 considering position (30,19) at step 17
+Robot 1 considering position (25,16) at step 19
+Robot 1 considering position (26,17) at step 19
+Robot 1 considering position (27,18) at step 19
+Robot 1 considering position (30,20) at step 18
+Robot 1 considering position (24,16) at step 20
+Robot 1 considering position (25,17) at step 20
+Robot 1 considering position (26,18) at step 20
+Robot 1 considering position (27,19) at step 20
+Robot 1 considering position (30,21) at step 19
+Robot 1 considering position (27,20) at step 21
+Robot 1 considering position (30,22) at step 20
+Robot 1 considering position (23,16) at step 21
+Robot 1 considering position (30,23) at step 21
+Robot 1 considering position (24,17) at step 21
+Robot 1 considering position (30,24) at step 22
+Robot 1 considering position (24,18) at step 22
+Robot 1 considering position (25,18) at step 21
+Robot 1 considering position (24,19) at step 23
+Robot 1 considering position (25,19) at step 22
+Robot 1 considering position (24,20) at step 24
+Robot 1 considering position (25,20) at step 23
+Robot 1 considering position (24,21) at step 25
+Robot 1 considering position (25,21) at step 24
+Robot 1 considering position (24,22) at step 26
+Robot 1 considering position (25,22) at step 25
+Robot 1 considering position (24,23) at step 27
+Robot 1 considering position (25,23) at step 26
+Robot 1 considering position (24,24) at step 28
+Robot 1 considering position (25,24) at step 27
+Robot 1 considering position (24,25) at step 29
+Robot 1 considering position (25,25) at step 28
+Robot 1 considering position (24,26) at step 30
+Robot 1 considering position (25,26) at step 29
+Robot 1 considering position (24,27) at step 31
+Robot 1 considering position (25,27) at step 30
+Robot 1 considering position (24,28) at step 32
+Robot 1 considering position (25,28) at step 31
+Robot 1 considering position (24,29) at step 33
+Robot 1 considering position (25,29) at step 32
+Robot 1 considering position (26,19) at step 21
+Robot 1 considering position (24,30) at step 34
+Robot 1 considering position (25,30) at step 33
+Robot 1 considering position (26,20) at step 22
+Robot 1 considering position (23,30) at step 35
+Robot 1 considering position (24,31) at step 35
+Robot 1 considering position (25,31) at step 34
+Robot 1 considering position (26,21) at step 23
+Robot 1 considering position (22,30) at step 36
+Robot 1 considering position (23,31) at step 36
+Robot 1 considering position (24,32) at step 36
+Robot 1 considering position (25,32) at step 35
+Robot 1 considering position (26,22) at step 24
+Robot 1 considering position (21,30) at step 37
+Robot 1 considering position (22,31) at step 37
+Robot 1 considering position (23,32) at step 37
+Robot 1 considering position (22,32) at step 38
+Robot 1 considering position (23,33) at step 38
+Robot 1 considering position (24,33) at step 37
+Robot 1 considering position (25,33) at step 36
+Robot 1 considering position (26,23) at step 25
+Robot 1 considering position (25,34) at step 37
+Robot 1 considering position (26,24) at step 26
+Robot 1 considering position (20,30) at step 38
+Robot 1 considering position (26,25) at step 27
+Robot 1 considering position (21,31) at step 38
+Robot 1 considering position (21,32) at step 39
+Robot 1 considering position (20,31) at step 39
+Robot 1 considering position (22,33) at step 39
+Robot 1 considering position (19,31) at step 40
+Robot 1 considering position (22,34) at step 40
+Robot 1 considering position (19,32) at step 41
+Robot 1 considering position (23,34) at step 39
+Robot 1 considering position (19,33) at step 42
+Robot 1 considering position (23,35) at step 40
+Robot 1 considering position (24,34) at step 38
+Robot 1 considering position (25,35) at step 38
+Robot 1 considering position (19,30) at step 39
+Robot 1 considering position (20,32) at step 40
+Robot 1 considering position (26,26) at step 28
+Robot 1 considering position (20,33) at step 41
+Robot 1 considering position (26,27) at step 29
+Robot 1 considering position (20,34) at step 42
+Robot 1 considering position (26,28) at step 30
+Robot 1 considering position (20,35) at step 43
+Robot 1 considering position (26,29) at step 31
+Robot 1 considering position (21,33) at step 40
+Robot 1 considering position (26,30) at step 32
+Robot 1 considering position (19,35) at step 44
+Robot 1 considering position (26,31) at step 33
+Robot 1 considering position (18,35) at step 45
+Robot 1 considering position (26,32) at step 34
+Robot 1 considering position (18,31) at step 41
+Robot 1 considering position (21,34) at step 41
+Robot 1 considering position (22,35) at step 41
+Robot 1 considering position (21,35) at step 42
+Robot 1 considering position (22,36) at step 42
+Robot 1 considering position (17,35) at step 46
+Robot 1 considering position (22,37) at step 43
+Robot 1 considering position (18,32) at step 42
+Robot 1 considering position (22,38) at step 44
+Robot 1 considering position (17,32) at step 43
+Robot 1 considering position (18,33) at step 43
+Robot 1 considering position (18,36) at step 46
+Robot 1 considering position (18,34) at step 44
+Robot 1 considering position (18,37) at step 47
+Robot 1 considering position (17,34) at step 45
+Robot 1 considering position (18,38) at step 48
+Robot 1 considering position (17,37) at step 48
+Robot 1 considering position (27,21) at step 22
+Robot 1 considering position (16,37) at step 49
+Robot 1 considering position (27,22) at step 23
+Robot 1 considering position (16,32) at step 44
+Robot 1 considering position (27,23) at step 24
+Robot 1 considering position (19,34) at step 43
+Robot 1 considering position (27,24) at step 25
+Robot 1 considering position (15,37) at step 50
+Robot 1 considering position (27,25) at step 26
+Robot 1 considering position (23,36) at step 41
+Robot 1 considering position (27,26) at step 27
+Robot 1 considering position (23,37) at step 42
+Robot 1 considering position (27,27) at step 28
+Robot 1 considering position (23,38) at step 43
+Robot 1 considering position (27,28) at step 29
+Robot 1 considering position (24,35) at step 39
+Robot 1 considering position (27,29) at step 30
+Robot 1 considering position (18,30) at step 40
+Robot 1 considering position (25,36) at step 39
+Robot 1 considering position (17,36) at step 47
+Robot 1 considering position (25,37) at step 40
+Robot 1 considering position (16,36) at step 48
+Robot 1 considering position (25,38) at step 41
+Robot 1 considering position (15,36) at step 49
+Robot 1 considering position (14,37) at step 51
+Robot 1 considering position (14,36) at step 50
+Robot 1 considering position (14,38) at step 52
+Robot 1 considering position (24,36) at step 40
+Robot 1 considering position (27,30) at step 31
+Robot 1 considering position (17,30) at step 41
+Robot 1 considering position (24,37) at step 41
+Robot 1 considering position (24,38) at step 42
+Robot 1 considering position (26,33) at step 35
+Robot 1 considering position (17,31) at step 42
+Robot 1 considering position (27,31) at step 32
+Robot 1 considering position (16,30) at step 42
+Robot 1 considering position (17,33) at step 44
+Robot 1 considering position (26,34) at step 36
+Robot 1 considering position (16,31) at step 43
+Robot 1 considering position (27,32) at step 33
+Robot 1 considering position (15,30) at step 43
+Robot 1 considering position (26,35) at step 37
+Robot 1 considering position (15,31) at step 44
+Robot 1 considering position (27,33) at step 34
+Robot 1 considering position (14,30) at step 44
+Robot 1 considering position (26,36) at step 38
+Robot 1 considering position (14,31) at step 45
+Robot 1 considering position (27,34) at step 35
+Robot 1 considering position (13,30) at step 45
+Robot 1 considering position (26,37) at step 39
+Robot 1 considering position (13,31) at step 46
+Robot 1 considering position (14,32) at step 46
+Robot 1 considering position (27,35) at step 36
+Robot 1 considering position (12,30) at step 46
+Robot 1 considering position (27,36) at step 37
+Robot 1 considering position (26,38) at step 40
+Robot 1 considering position (27,37) at step 38
+Robot 1 considering position (12,31) at step 47
+Robot 1 considering position (22,16) at step 22
+Robot 1 considering position (12,32) at step 48
+Robot 1 considering position (13,32) at step 47
+Robot 1 considering position (14,33) at step 47
+Robot 1 considering position (13,33) at step 48
+Robot 1 considering position (14,34) at step 48
+Robot 1 considering position (13,34) at step 49
+Robot 1 considering position (14,35) at step 49
+Robot 1 considering position (13,35) at step 50
+Robot 1 considering position (12,34) at step 50
+Robot 1 considering position (12,35) at step 51
+Robot 1 considering position (11,34) at step 51
+Robot 1 considering position (11,35) at step 52
+Robot 1 considering position (11,30) at step 47
+Robot 1 considering position (11,36) at step 53
+Robot 1 considering position (27,38) at step 39
+Robot 1 considering position (11,37) at step 54
+Robot 1 considering position (11,31) at step 48
+Robot 1 considering position (11,38) at step 55
+Robot 1 considering position (10,31) at step 49
+Robot 1 considering position (21,16) at step 23
+Robot 1 considering position (22,17) at step 23
+Robot 1 considering position (11,32) at step 49
+Robot 1 considering position (22,18) at step 24
+Robot 1 considering position (11,33) at step 50
+Robot 1 considering position (22,19) at step 25
+Robot 1 considering position (21,18) at step 25
+Robot 1 considering position (22,20) at step 26
+Robot 1 considering position (20,18) at step 26
+Robot 1 considering position (10,30) at step 48
+Robot 1 considering position (12,33) at step 49
+Robot 1 considering position (9,31) at step 50
+Robot 1 considering position (9,30) at step 49
+Robot 1 considering position (8,31) at step 51
+Robot 1 considering position (21,17) at step 24
+Robot 1 considering position (8,30) at step 50
+Robot 1 considering position (20,17) at step 25
+Robot 1 considering position (20,16) at step 24
+Robot 1 considering position (19,17) at step 26
+Robot 1 considering position (20,19) at step 27
+Robot 1 considering position (18,17) at step 27
+Robot 1 considering position (20,20) at step 28
+Robot 1 considering position (34,8) at step 2
+Robot 1 considering position (20,21) at step 29
+Robot 1 considering position (34,9) at step 3
+Robot 1 considering position (31,9) at step 6
+Robot 1 considering position (34,10) at step 4
+Robot 1 considering position (19,21) at step 30
+Robot 1 considering position (34,11) at step 5
+Robot 1 considering position (18,21) at step 31
+Robot 1 considering position (34,12) at step 6
+Robot 1 considering position (30,13) at step 11
+Robot 1 considering position (34,13) at step 7
+Robot 1 considering position (18,22) at step 32
+Robot 1 considering position (34,14) at step 8
+Robot 1 considering position (18,23) at step 33
+Robot 1 considering position (34,15) at step 9
+Robot 1 considering position (18,24) at step 34
+Robot 1 considering position (34,16) at step 10
+Robot 1 considering position (30,14) at step 12
+Robot 1 considering position (23,17) at step 22
+Robot 1 considering position (17,24) at step 35
+Robot 1 considering position (17,23) at step 34
+Robot 1 considering position (17,25) at step 36
+Robot 1 considering position (16,23) at step 35
+Robot 1 considering position (17,26) at step 37
+Robot 1 considering position (21,19) at step 26
+Robot 1 considering position (21,20) at step 27
+Robot 1 considering position (22,21) at step 27
+Robot 1 considering position (21,21) at step 28
+Robot 1 considering position (15,23) at step 36
+Robot 1 considering position (16,25) at step 37
+Robot 1 considering position (19,18) at step 27
+Robot 1 considering position (15,25) at step 38
+Robot 1 considering position (15,24) at step 37
+Robot 1 considering position (15,26) at step 39
+Robot 1 considering position (14,24) at step 38
+Robot 1 considering position (15,27) at step 40
+Robot 1 considering position (13,24) at step 39
+Robot 1 considering position (15,28) at step 41
+Robot 1 considering position (19,16) at step 25
+Robot 1 considering position (15,29) at step 42
+Robot 1 considering position (27,11) at step 12
+Robot 1 considering position (14,29) at step 43
+Robot 1 considering position (27,12) at step 13
+Robot 1 considering position (13,29) at step 44
+Robot 1 considering position (27,13) at step 14
+Robot 1 considering position (18,16) at step 26
+Robot 1 considering position (27,14) at step 15
+Robot 1 considering position (13,25) at step 40
+Robot 1 considering position (27,15) at step 16
+Robot 1 considering position (13,26) at step 41
+Robot 1 considering position (26,15) at step 17
+Robot 1 considering position (13,27) at step 42
+Robot 1 considering position (25,15) at step 18
+Robot 1 considering position (13,28) at step 43
+Robot 1 considering position (26,12) at step 14
+Robot 1 considering position (12,28) at step 44
+Robot 1 considering position (25,12) at step 15
+Robot 1 considering position (11,28) at step 45
+Robot 1 considering position (26,14) at step 16
+Robot 1 considering position (12,26) at step 42
+Robot 1 considering position (25,14) at step 17
+Robot 1 considering position (11,26) at step 43
+Robot 1 considering position (24,14) at step 18
+Robot 1 considering position (12,25) at step 41
+Robot 1 considering position (11,29) at step 46
+Robot 1 considering position (11,25) at step 42
+Robot 1 considering position (10,29) at step 47
+Robot 1 considering position (10,26) at step 44
+Robot 1 considering position (9,29) at step 48
+Robot 1 considering position (10,27) at step 45
+Robot 1 considering position (23,14) at step 19
+Robot 1 considering position (9,27) at step 46
+Robot 1 considering position (12,27) at step 43
+Robot 1 considering position (9,28) at step 47
+Robot 1 considering position (23,15) at step 20
+Robot 1 considering position (8,28) at step 48
+Robot 1 considering position (22,15) at step 21
+Robot 1 considering position (25,13) at step 16
+Robot 1 considering position (21,15) at step 22
+Robot 1 considering position (24,13) at step 17
+Robot 1 considering position (17,16) at step 27
+Robot 1 considering position (23,13) at step 18
+Robot 1 considering position (24,15) at step 19
+Robot 1 considering position (9,26) at step 45
+Robot 1 considering position (22,13) at step 19
+Robot 1 considering position (22,14) at step 20
+Robot 1 considering position (26,13) at step 15
+Robot 1 considering position (21,14) at step 21
+Robot 1 considering position (8,26) at step 46
+Robot 1 considering position (20,14) at step 22
+Robot 1 considering position (8,27) at step 47
+Robot 1 considering position (21,13) at step 20
+Robot 1 considering position (19,14) at step 23
+Robot 1 considering position (20,15) at step 23
+Robot 1 considering position (11,27) at step 44
+Robot 1 considering position (19,15) at step 24
+Robot 1 considering position (20,13) at step 21
+Robot 1 considering position (18,15) at step 25
+Robot 1 considering position (10,25) at step 43
+Robot 1 considering position (17,15) at step 26
+Robot 1 considering position (8,29) at step 49
+Robot 1 considering position (16,16) at step 28
+Robot 1 considering position (16,15) at step 27
+Robot 1 considering position (16,17) at step 29
+Robot 1 considering position (19,13) at step 22
+Robot 1 considering position (16,18) at step 30
+Robot 1 considering position (12,24) at step 40
+Robot 1 considering position (16,19) at step 31
+Robot 1 considering position (24,12) at step 16
+Robot 1 considering position (16,20) at step 32
+Robot 1 considering position (12,29) at step 45
+Robot 1 considering position (16,21) at step 33
+Robot 1 considering position (16,26) at step 38
+Robot 1 considering position (16,22) at step 34
+Robot 1 considering position (16,27) at step 39
+Robot 1 considering position (15,22) at step 35
+Robot 1 considering position (16,28) at step 40
+Robot 1 considering position (14,22) at step 36
+Robot 1 considering position (16,29) at step 41
+Robot 1 considering position (15,20) at step 33
+Robot 1 considering position (13,22) at step 37
+Robot 1 considering position (14,20) at step 34
+Robot 1 considering position (15,19) at step 32
+Robot 1 considering position (13,20) at step 35
+Robot 1 considering position (14,19) at step 33
+Robot 1 considering position (14,21) at step 35
+Robot 1 considering position (12,20) at step 36
+Robot 1 considering position (13,19) at step 34
+Robot 1 considering position (13,21) at step 36
+Robot 1 considering position (12,21) at step 37
+Robot 1 considering position (12,19) at step 35
+Robot 1 considering position (11,21) at step 38
+Robot 1 considering position (23,18) at step 23
+Robot 1 considering position (11,22) at step 39
+Robot 1 considering position (11,19) at step 36
+Robot 1 considering position (11,23) at step 40
+Robot 1 considering position (14,28) at step 42
+Robot 1 considering position (10,23) at step 41
+Robot 1 considering position (10,22) at step 40
+Robot 1 considering position (10,24) at step 42
+Robot 1 considering position (9,22) at step 41
+Robot 1 considering position (9,24) at step 43
+Robot 1 considering position (9,23) at step 42
+Robot 1 considering position (8,24) at step 44
+Robot 1 considering position (8,23) at step 43
+Robot 1 considering position (8,25) at step 45
+Robot 1 considering position (11,20) at step 37
+Robot 1 considering position (13,23) at step 38
+Robot 1 considering position (11,24) at step 41
+Robot 1 considering position (12,23) at step 39
+Robot 1 considering position (18,13) at step 23
+Robot 1 considering position (15,17) at step 30
+Robot 1 considering position (8,22) at step 42
+Robot 1 considering position (14,17) at step 31
+Robot 1 considering position (15,18) at step 31
+Robot 1 considering position (13,17) at step 32
+Robot 1 considering position (14,18) at step 32
+Robot 1 considering position (12,17) at step 33
+Robot 1 considering position (13,18) at step 33
+Robot 1 considering position (18,14) at step 24
+Robot 1 considering position (12,18) at step 34
+Robot 1 considering position (17,14) at step 25
+Robot 1 considering position (11,18) at step 35
+Robot 1 considering position (16,14) at step 26
+Robot 1 considering position (9,25) at step 44
+Robot 1 considering position (17,13) at step 24
+Robot 1 considering position (15,14) at step 27
+Robot 1 considering position (15,16) at step 29
+Robot 1 considering position (14,27) at step 41
+Robot 1 considering position (14,16) at step 30
+Robot 1 considering position (16,13) at step 25
+Robot 1 considering position (14,14) at step 28
+Robot 1 considering position (14,26) at step 40
+Robot 1 considering position (13,16) at step 31
+Robot 1 considering position (14,15) at step 29
+Robot 1 considering position (13,14) at step 29
+Robot 1 considering position (13,15) at step 30
+Robot 1 considering position (12,16) at step 32
+Robot 1 considering position (12,15) at step 31
+Robot 1 considering position (11,16) at step 33
+Robot 1 considering position (11,15) at step 32
+Robot 1 considering position (12,14) at step 30
+Robot 1 considering position (15,21) at step 34
+Robot 1 considering position (23,12) at step 17
+Robot 1 considering position (11,14) at step 31
+Robot 1 considering position (14,23) at step 37
+Robot 1 considering position (11,17) at step 34
+Robot 1 considering position (22,12) at step 18
+Robot 1 considering position (16,24) at step 36
+Robot 1 considering position (21,12) at step 19
+Robot 1 considering position (17,21) at step 32
+Robot 1 considering position (20,12) at step 20
+Robot 1 considering position (18,18) at step 28
+Robot 1 considering position (17,22) at step 33
+Robot 1 considering position (18,19) at step 29
+Robot 1 considering position (17,18) at step 29
+Robot 1 considering position (18,20) at step 30
+Robot 1 considering position (19,20) at step 29
+Robot 1 considering position (19,12) at step 21
+Robot 1 considering position (12,22) at step 38
+Robot 1 considering position (15,15) at step 28
+Robot 1 considering position (15,13) at step 26
+Robot 1 considering position (14,25) at step 39
+Robot 1 considering position (14,13) at step 27
+Robot 1 considering position (17,19) at step 30
+Robot 1 considering position (13,13) at step 28
+Robot 1 considering position (18,12) at step 22
+Robot 1 considering position (12,13) at step 29
+Robot 1 considering position (17,12) at step 23
+Robot 1 considering position (11,13) at step 30
+Robot 1 considering position (16,12) at step 24
+Robot 1 considering position (17,20) at step 31
+Robot 1 considering position (15,12) at step 25
+Robot 1 considering position (19,19) at step 28
+Robot 1 considering position (14,12) at step 26
+Robot 1 considering position (17,17) at step 28
+Robot 1 considering position (13,12) at step 27
+Robot 1 considering position (23,19) at step 24
+Robot 1 considering position (12,12) at step 28
+Robot 1 considering position (31,10) at step 7
+Robot 1 considering position (11,12) at step 29
+Robot 1 considering position (28,12) at step 12
+Robot 1 considering position (23,20) at step 25
+Robot 1 considering position (23,21) at step 26
+Robot 1 considering position (28,13) at step 13
+Robot 1 considering position (18,25) at step 35
+Robot 1 considering position (17,27) at step 38
+Robot 1 considering position (18,26) at step 36
+Robot 1 considering position (17,28) at step 39
+Robot 1 considering position (18,27) at step 37
+Robot 1 considering position (17,29) at step 40
+Robot 1 considering position (18,28) at step 38
+Robot 1 considering position (31,6) at step 3
+Robot 1 considering position (18,29) at step 39
+Robot 1 considering position (30,6) at step 4
+Robot 1 considering position (31,16) at step 13
+Robot 1 considering position (29,6) at step 5
+Robot 1 considering position (31,17) at step 14
+Robot 1 considering position (28,6) at step 6
+Robot 1 considering position (31,18) at step 15
+Robot 1 considering position (27,6) at step 7
+Robot 1 considering position (31,19) at step 16
+Robot 1 considering position (26,6) at step 8
+Robot 1 considering position (31,20) at step 17
+Robot 1 considering position (26,7) at step 9
+Robot 1 considering position (31,21) at step 18
+Robot 1 considering position (26,8) at step 10
+Robot 1 considering position (31,22) at step 19
+Robot 1 considering position (26,9) at step 11
+Robot 1 considering position (31,23) at step 20
+Robot 1 considering position (25,9) at step 12
+Robot 1 considering position (31,24) at step 21
+Robot 1 considering position (24,9) at step 13
+Robot 1 considering position (28,14) at step 14
+Robot 1 considering position (23,9) at step 14
+Robot 1 considering position (24,10) at step 14
+Robot 1 considering position (23,10) at step 15
+Robot 1 considering position (24,11) at step 15
+Robot 1 considering position (23,11) at step 16
+Robot 1 considering position (17,38) at step 49
+Robot 1 considering position (16,38) at step 50
+Robot 1 considering position (25,10) at step 13
+Robot 1 considering position (15,32) at step 45
+Robot 1 considering position (25,11) at step 14
+Robot 1 considering position (10,28) at step 46
+Robot 1 considering position (31,11) at step 8
+Robot 1 considering position (26,11) at step 13
+Robot 1 considering position (15,38) at step 51
+Robot 1 considering position (23,28) at step 33
+Robot 1 considering position (28,15) at step 15
+Robot 1 considering position (22,28) at step 34
+Robot 1 considering position (23,29) at step 34
+Robot 1 considering position (21,28) at step 35
+Robot 1 considering position (22,29) at step 35
+Robot 1 considering position (20,28) at step 36
+Robot 1 considering position (21,29) at step 36
+Robot 1 considering position (19,28) at step 37
+Robot 1 considering position (20,29) at step 37
+Robot 1 considering position (19,29) at step 38
+Robot 1 considering position (23,39) at step 44
+Robot 1 considering position (28,32) at step 34
+Robot 1 considering position (28,38) at step 40
+Robot 1 considering position (35,13) at step 8
+Robot 1 considering position (35,11) at step 6
+Robot 1 considering position (28,30) at step 32
+Robot 1 considering position (35,15) at step 10
+Robot 1 considering position (35,6) at step 1
+Robot 1 considering position (9,21) at step 42
+Robot 1 considering position (33,5) at step 2
+Robot 1 considering position (29,5) at step 6
+Robot 1 considering position (28,27) at step 29
+Robot 1 considering position (22,39) at step 45
+Robot 1 considering position (18,39) at step 49
+Robot 1 considering position (35,12) at step 7
+Robot 1 considering position (30,5) at step 5
+Robot 1 considering position (21,39) at step 46
+Robot 1 considering position (28,5) at step 7
+Robot 1 considering position (25,39) at step 42
+Robot 1 considering position (20,39) at step 47
+Robot 1 considering position (23,8) at step 15
+Robot 1 considering position (8,21) at step 43
+Robot 1 considering position (19,39) at step 48
+Robot 1 considering position (22,8) at step 16
+Robot 1 considering position (26,5) at step 9
+Robot 1 considering position (27,5) at step 8
+Robot 1 considering position (21,8) at step 17
+Robot 1 considering position (25,5) at step 10
+Robot 1 considering position (12,11) at step 29
+Robot 1 considering position (20,8) at step 18
+Robot 1 considering position (24,5) at step 11
+Robot 1 considering position (28,29) at step 31
+Robot 1 considering position (19,8) at step 19
+Robot 1 considering position (20,9) at step 19
+Robot 1 considering position (23,5) at step 12
+Robot 1 considering position (18,8) at step 20
+Robot 1 considering position (19,9) at step 20
+Robot 1 considering position (20,10) at step 20
+Robot 1 considering position (22,5) at step 13
+Robot 1 considering position (23,6) at step 13
+Robot 1 considering position (13,11) at step 28
+Robot 1 considering position (23,7) at step 14
+Robot 1 considering position (14,39) at step 53
+Robot 1 considering position (22,6) at step 14
+Robot 1 considering position (17,8) at step 21
+Robot 1 considering position (21,6) at step 15
+Robot 1 considering position (18,9) at step 21
+Robot 1 considering position (21,5) at step 14
+Robot 1 considering position (18,10) at step 22
+Robot 1 considering position (22,7) at step 15
+Robot 1 considering position (17,10) at step 23
+Robot 1 considering position (20,5) at step 15
+Robot 1 considering position (16,10) at step 24
+Robot 1 considering position (13,39) at step 54
+Robot 1 considering position (19,10) at step 21
+Robot 1 considering position (16,8) at step 22
+Robot 1 considering position (17,9) at step 22
+Robot 1 considering position (20,6) at step 16
+Robot 1 considering position (21,7) at step 16
+Robot 1 considering position (15,10) at step 25
+Robot 1 considering position (12,39) at step 55
+Robot 1 considering position (15,8) at step 23
+Robot 1 considering position (16,9) at step 23
+Robot 1 considering position (20,7) at step 17
+Robot 1 considering position (14,10) at step 26
+Robot 1 considering position (14,8) at step 24
+Robot 1 considering position (15,9) at step 24
+Robot 1 considering position (19,7) at step 18
+Robot 1 considering position (13,10) at step 27
+Robot 1 considering position (13,8) at step 25
+Robot 1 considering position (14,9) at step 25
+Robot 1 considering position (18,7) at step 19
+Robot 1 considering position (12,10) at step 28
+Robot 1 considering position (12,8) at step 26
+Robot 1 considering position (13,9) at step 26
+Robot 1 considering position (17,7) at step 20
+Robot 1 considering position (11,10) at step 29
+Robot 1 considering position (11,8) at step 27
+Robot 1 considering position (12,9) at step 27
+Robot 1 considering position (16,7) at step 21
+Robot 1 considering position (14,11) at step 27
+Robot 1 considering position (11,9) at step 28
+Robot 1 considering position (15,11) at step 26
+Robot 1 considering position (15,7) at step 22
+Robot 1 considering position (16,11) at step 25
+Robot 1 considering position (28,37) at step 39
+Robot 1 considering position (14,7) at step 23
+Robot 1 considering position (18,11) at step 23
+Robot 1 considering position (35,9) at step 4
+Robot 1 considering position (13,7) at step 24
+Robot 1 considering position (32,19) at step 17
+Robot 1 considering position (12,7) at step 25
+Robot 1 considering position (34,5) at step 1
+Robot 1 considering position (11,7) at step 26
+Robot 1 considering position (32,20) at step 18
+Robot 1 considering position (32,23) at step 21
+Robot 1 considering position (11,39) at step 56
+Robot 1 considering position (19,11) at step 22
+Robot 1 considering position (10,39) at step 57
+Robot 1 considering position (28,28) at step 30
+Robot 1 considering position (9,39) at step 58
+Robot 1 considering position (26,39) at step 41
+Robot 1 considering position (8,39) at step 59
+Robot 1 considering position (20,11) at step 21
+Robot 1 considering position (27,39) at step 40
+Robot 1 considering position (28,36) at step 38
+Robot 1 considering position (32,22) at step 20
+Robot 1 considering position (32,21) at step 19
+Robot 1 considering position (35,10) at step 5
+Robot 1 considering position (28,33) at step 35
+Robot 1 considering position (17,11) at step 24
+Robot 1 considering position (11,11) at step 30
+Robot 1 considering position (15,39) at step 52
+Robot 1 considering position (17,39) at step 50
+Robot 1 considering position (35,8) at step 3
+Robot 1 considering position (24,39) at step 43
+Robot 1 considering position (28,34) at step 36
+Robot 1 considering position (35,14) at step 9
+Robot 1 considering position (32,24) at step 22
+Robot 1 considering position (35,7) at step 2
+Robot 1 considering position (35,16) at step 11
+Robot 1 considering position (31,5) at step 4
+Robot 1 considering position (35,17) at step 12
+Robot 1 considering position (16,39) at step 51
+Robot 1 considering position (35,18) at step 13
+Robot 1 considering position (32,5) at step 3
+Robot 1 considering position (35,19) at step 14
+Robot 1 considering position (28,31) at step 33
+Robot 1 considering position (35,20) at step 15
+Robot 1 considering position (28,35) at step 37
+Robot 1 considering position (35,21) at step 16
+Robot 1 considering position (35,22) at step 17
+Robot 1 considering position (35,23) at step 18
+Robot 1 considering position (35,24) at step 19
+Robot 1 considering position (35,25) at step 20
+Robot 1 considering position (35,26) at step 21
+Robot 1 considering position (35,27) at step 22
+Robot 1 considering position (34,27) at step 23
+Robot 1 considering position (35,28) at step 23
+Robot 1 considering position (33,27) at step 24
+Robot 1 considering position (34,28) at step 24
+Robot 1 considering position (35,29) at step 24
+Robot 1 considering position (32,27) at step 25
+Robot 1 considering position (33,28) at step 25
+Robot 1 considering position (34,29) at step 25
+Robot 1 considering position (35,30) at step 25
+Robot 1 considering position (31,27) at step 26
+Robot 1 considering position (32,28) at step 26
+Robot 1 considering position (33,29) at step 26
+Robot 1 considering position (34,30) at step 26
+Robot 1 considering position (35,31) at step 26
+Robot 1 considering position (30,27) at step 27
+Robot 1 considering position (31,28) at step 27
+Robot 1 considering position (32,29) at step 27
+Robot 1 considering position (31,29) at step 28
+Robot 1 considering position (32,30) at step 28
+Robot 1 considering position (31,30) at step 29
+Robot 1 considering position (32,31) at step 29
+Robot 1 considering position (33,30) at step 27
+Robot 1 considering position (34,31) at step 27
+Robot 1 considering position (33,31) at step 28
+Robot 1 considering position (34,32) at step 28
+Robot 1 considering position (33,32) at step 29
+Robot 1 considering position (34,33) at step 29
+Robot 1 considering position (33,33) at step 30
+Robot 1 considering position (34,34) at step 30
+Robot 1 considering position (35,32) at step 27
+Robot 1 considering position (34,35) at step 31
+Robot 1 considering position (35,33) at step 28
+Robot 1 considering position (29,27) at step 28
+Robot 1 considering position (30,28) at step 28
+Robot 1 considering position (30,29) at step 29
+Robot 1 considering position (33,35) at step 32
+Robot 1 considering position (29,29) at step 30
+Robot 1 considering position (33,36) at step 33
+Robot 1 considering position (29,30) at step 31
+Robot 1 considering position (33,37) at step 34
+Robot 1 considering position (29,31) at step 32
+Robot 1 considering position (30,30) at step 30
+Robot 1 considering position (29,32) at step 33
+Robot 1 considering position (30,31) at step 31
+Robot 1 considering position (29,33) at step 34
+Robot 1 considering position (30,32) at step 32
+Robot 1 considering position (29,34) at step 35
+Robot 1 considering position (30,33) at step 33
+Robot 1 considering position (29,35) at step 36
+Robot 1 considering position (30,34) at step 34
+Robot 1 considering position (29,36) at step 37
+Robot 1 considering position (30,35) at step 35
+Robot 1 considering position (29,37) at step 38
+Robot 1 considering position (30,36) at step 36
+Robot 1 considering position (29,38) at step 39
+Robot 1 considering position (30,37) at step 37
+Robot 1 considering position (31,31) at step 30
+Robot 1 considering position (32,32) at step 30
+Robot 1 considering position (32,33) at step 31
+Robot 1 considering position (33,34) at step 31
+Robot 1 considering position (32,37) at step 35
+Robot 1 considering position (30,38) at step 38
+Robot 1 considering position (31,32) at step 31
+Robot 1 considering position (31,33) at step 32
+Robot 1 considering position (32,34) at step 32
+Robot 1 considering position (31,37) at step 36
+Robot 1 considering position (32,38) at step 36
+Robot 1 considering position (31,34) at step 33
+Robot 1 considering position (31,38) at step 37
+Robot 1 considering position (31,35) at step 34
+Robot 1 considering position (34,36) at step 32
+Robot 1 considering position (31,36) at step 35
+Robot 1 considering position (34,37) at step 33
+Robot 1 considering position (35,34) at step 29
+Robot 1 considering position (34,38) at step 34
+Robot 1 considering position (35,35) at step 30
+Robot 1 considering position (29,28) at step 29
+Robot 1 considering position (35,36) at step 31
+Robot 1 considering position (32,36) at step 34
+Robot 1 considering position (35,37) at step 32
+Robot 1 considering position (33,38) at step 35
+Robot 1 considering position (35,38) at step 33
+Robot 1 considering position (32,35) at step 33
+Robot 1 considering position (35,39) at step 34
+Robot 1 considering position (36,38) at step 34
+Robot 1 considering position (27,4) at step 9
+Robot 1 considering position (14,40) at step 54
+Robot 1 considering position (9,40) at step 59
+Robot 1 considering position (30,4) at step 6
+Robot 1 considering position (28,39) at step 41
+Robot 1 considering position (36,6) at step 2
+Robot 1 considering position (23,40) at step 45
+Robot 1 considering position (22,40) at step 46
+Robot 1 considering position (36,35) at step 31
+Robot 1 considering position (36,15) at step 11
+Robot 1 considering position (10,40) at step 58
+Robot 1 considering position (21,40) at step 47
+Robot 1 considering position (36,13) at step 9
+Robot 1 considering position (36,16) at step 12
+Robot 1 considering position (25,40) at step 43
+Robot 1 considering position (36,17) at step 13
+Robot 1 considering position (36,18) at step 14
+Robot 1 considering position (29,4) at step 7
+Robot 1 considering position (36,9) at step 5
+Robot 1 considering position (11,40) at step 57
+Robot 1 considering position (36,19) at step 15
+Robot 1 considering position (36,20) at step 16
+Robot 1 considering position (26,4) at step 10
+Robot 1 considering position (36,21) at step 17
+Robot 1 considering position (36,22) at step 18
+Robot 1 considering position (8,20) at step 44
+Robot 1 considering position (12,6) at step 26
+Robot 1 considering position (36,23) at step 19
+Robot 1 considering position (36,24) at step 20
+Robot 1 considering position (36,32) at step 28
+Robot 1 considering position (36,25) at step 21
+Robot 1 considering position (36,26) at step 22
+Robot 1 considering position (20,4) at step 16
+Robot 1 considering position (25,4) at step 11
+Robot 1 considering position (17,6) at step 21
+Robot 1 considering position (16,6) at step 22
+Robot 1 considering position (9,20) at step 43
+Robot 1 considering position (36,27) at step 23
+Robot 1 considering position (13,6) at step 25
+Robot 1 considering position (23,4) at step 13
+Robot 1 considering position (36,28) at step 24
+Robot 1 considering position (32,39) at step 37
+Robot 1 considering position (12,40) at step 56
+Robot 1 considering position (28,4) at step 8
+Robot 1 considering position (36,29) at step 25
+Robot 1 considering position (36,31) at step 27
+Robot 1 considering position (22,4) at step 14
+Robot 1 considering position (19,40) at step 49
+Robot 1 considering position (21,4) at step 15
+Robot 1 considering position (11,6) at step 27
+Robot 1 considering position (30,39) at step 39
+Robot 1 considering position (36,34) at step 30
+Robot 1 considering position (29,39) at step 40
+Robot 1 considering position (33,39) at step 36
+Robot 1 considering position (36,37) at step 33
+Robot 1 considering position (34,39) at step 35
+Robot 1 considering position (18,40) at step 50
+Robot 1 considering position (31,39) at step 38
+Robot 1 considering position (34,4) at step 2
+Robot 1 considering position (36,12) at step 8
+Robot 1 considering position (13,40) at step 55
+Robot 1 considering position (33,4) at step 3
+Robot 1 considering position (35,5) at step 2
+Robot 1 considering position (15,6) at step 23
+Robot 1 considering position (26,40) at step 42
+Robot 1 considering position (8,40) at step 60
+Robot 1 considering position (14,6) at step 24
+Robot 1 considering position (27,40) at step 41
+Robot 1 considering position (36,33) at step 29
+Robot 1 considering position (36,36) at step 32
+Robot 1 considering position (24,40) at step 44
+Robot 1 considering position (36,11) at step 7
+Robot 1 considering position (36,10) at step 6
+Robot 1 considering position (20,40) at step 48
+Robot 1 considering position (36,8) at step 4
+Robot 1 considering position (15,40) at step 53
+Robot 1 considering position (17,40) at step 51
+Robot 1 considering position (32,4) at step 4
+Robot 1 considering position (16,40) at step 52
+Robot 1 considering position (24,4) at step 12
+Robot 1 considering position (36,14) at step 10
+Robot 1 considering position (31,4) at step 5
+Robot 1 considering position (36,7) at step 3
+Robot 1 considering position (36,30) at step 26
+Robot 1 considering position (37,7) at step 4
+Robot 1 considering position (37,30) at step 27
+Robot 1 considering position (30,40) at step 40
+Robot 1 considering position (37,24) at step 21
+Robot 1 considering position (37,13) at step 10
+Robot 1 considering position (28,40) at step 42
+Robot 1 considering position (27,3) at step 10
+Robot 1 considering position (35,40) at step 35
+Robot 1 considering position (37,38) at step 35
+Robot 1 considering position (30,3) at step 7
+Robot 1 considering position (14,41) at step 55
+Robot 1 considering position (9,41) at step 60
+Robot 1 considering position (21,41) at step 48
+Robot 1 considering position (22,41) at step 47
+Robot 1 considering position (36,5) at step 3
+Robot 1 considering position (23,41) at step 46
+Robot 1 considering position (10,41) at step 59
+Robot 1 considering position (37,35) at step 32
+Robot 1 considering position (37,15) at step 12
+Robot 1 considering position (37,23) at step 20
+Robot 1 considering position (11,41) at step 58
+Robot 1 considering position (37,17) at step 14
+Robot 1 considering position (37,16) at step 13
+Robot 1 considering position (25,41) at step 44
+Robot 1 considering position (37,9) at step 6
+Robot 1 considering position (37,18) at step 15
+Robot 1 considering position (29,3) at step 8
+Robot 1 considering position (12,5) at step 27
+Robot 1 considering position (26,3) at step 11
+Robot 1 considering position (37,19) at step 16
+Robot 1 considering position (37,20) at step 17
+Robot 1 considering position (8,19) at step 45
+Robot 1 considering position (37,21) at step 18
+Robot 1 considering position (37,22) at step 19
+Robot 1 considering position (11,5) at step 28
+Robot 1 considering position (32,40) at step 38
+Robot 1 considering position (16,5) at step 23
+Robot 1 considering position (37,26) at step 23
+Robot 1 considering position (37,32) at step 29
+Robot 1 considering position (37,25) at step 22
+Robot 1 considering position (17,5) at step 22
+Robot 1 considering position (20,3) at step 17
+Robot 1 considering position (25,3) at step 12
+Robot 1 considering position (37,28) at step 25
+Robot 1 considering position (13,5) at step 26
+Robot 1 considering position (9,19) at step 44
+Robot 1 considering position (37,27) at step 24
+Robot 1 considering position (23,3) at step 14
+Robot 1 considering position (36,39) at step 35
+Robot 1 considering position (37,6) at step 3
+Robot 1 considering position (21,3) at step 16
+Robot 1 considering position (37,29) at step 26
+Robot 1 considering position (12,41) at step 57
+Robot 1 considering position (28,3) at step 9
+Robot 1 considering position (19,3) at step 18
+Robot 1 considering position (19,41) at step 50
+Robot 1 considering position (37,31) at step 28
+Robot 1 considering position (22,3) at step 15
+Robot 1 considering position (18,3) at step 19
+Robot 1 considering position (31,3) at step 6
+Robot 1 considering position (17,3) at step 20
+Robot 1 considering position (8,41) at step 61
+Robot 1 considering position (16,3) at step 21
+Robot 1 considering position (17,4) at step 21
+Robot 1 considering position (15,3) at step 22
+Robot 1 considering position (16,4) at step 22
+Robot 1 considering position (14,3) at step 23
+Robot 1 considering position (15,4) at step 23
+Robot 1 considering position (13,3) at step 24
+Robot 1 considering position (31,40) at step 39
+Robot 1 considering position (33,40) at step 37
+Robot 1 considering position (37,34) at step 31
+Robot 1 considering position (29,40) at step 41
+Robot 1 considering position (14,4) at step 24
+Robot 1 considering position (12,3) at step 25
+Robot 1 considering position (13,4) at step 25
+Robot 1 considering position (18,41) at step 51
+Robot 1 considering position (37,37) at step 34
+Robot 1 considering position (34,40) at step 36
+Robot 1 considering position (11,3) at step 26
+Robot 1 considering position (12,4) at step 26
+Robot 1 considering position (11,4) at step 27
+Robot 1 considering position (26,41) at step 43
+Robot 1 considering position (13,41) at step 56
+Robot 1 considering position (34,3) at step 3
+Robot 1 considering position (37,12) at step 9
+Robot 1 considering position (15,5) at step 24
+Robot 1 considering position (33,3) at step 4
+Robot 1 considering position (35,4) at step 3
+Robot 1 considering position (37,14) at step 11
+Robot 1 considering position (37,10) at step 7
+Robot 1 considering position (37,33) at step 30
+Robot 1 considering position (14,5) at step 25
+Robot 1 considering position (27,41) at step 42
+Robot 1 considering position (37,11) at step 8
+Robot 1 considering position (37,36) at step 33
+Robot 1 considering position (24,41) at step 45
+Robot 1 considering position (24,3) at step 13
+Robot 1 considering position (15,41) at step 54
+Robot 1 considering position (20,41) at step 49
+Robot 1 considering position (37,8) at step 5
+Robot 1 considering position (16,41) at step 53
+Robot 1 considering position (17,41) at step 52
+Robot 1 considering position (32,3) at step 5
+Robot 1 considering position (17,42) at step 53
+Robot 1 considering position (32,2) at step 6
+Robot 1 considering position (11,2) at step 27
+Robot 1 considering position (38,20) at step 18
+Robot 1 considering position (36,4) at step 4
+Robot 1 considering position (10,2) at step 28
+Robot 1 considering position (27,2) at step 11
+Robot 1 considering position (30,41) at step 41
+Robot 1 considering position (38,7) at step 5
+Robot 1 considering position (38,30) at step 28
+Robot 1 considering position (9,2) at step 29
+Robot 1 considering position (28,41) at step 43
+Robot 1 considering position (38,24) at step 22
+Robot 1 considering position (38,13) at step 11
+Robot 1 considering position (9,3) at step 30
+Robot 1 considering position (8,2) at step 30
+Robot 1 considering position (9,4) at step 31
+Robot 1 considering position (22,42) at step 48
+Robot 1 considering position (9,5) at step 32
+Robot 1 considering position (30,2) at step 8
+Robot 1 considering position (9,6) at step 33
+Robot 1 considering position (35,41) at step 36
+Robot 1 considering position (9,7) at step 34
+Robot 1 considering position (37,39) at step 36
+Robot 1 considering position (9,8) at step 35
+Robot 1 considering position (21,42) at step 49
+Robot 1 considering position (9,9) at step 36
+Robot 1 considering position (14,42) at step 56
+Robot 1 considering position (9,10) at step 37
+Robot 1 considering position (9,42) at step 61
+Robot 1 considering position (9,11) at step 38
+Robot 1 considering position (38,19) at step 17
+Robot 1 considering position (9,12) at step 39
+Robot 1 considering position (8,11) at step 39
+Robot 1 considering position (9,13) at step 40
+Robot 1 considering position (7,11) at step 40
+Robot 1 considering position (9,14) at step 41
+Robot 1 considering position (7,12) at step 41
+Robot 1 considering position (9,15) at step 42
+Robot 1 considering position (7,13) at step 42
+Robot 1 considering position (9,16) at step 43
+Robot 1 considering position (6,13) at step 43
+Robot 1 considering position (9,17) at step 44
+Robot 1 considering position (6,14) at step 44
+Robot 1 considering position (8,17) at step 45
+Robot 1 considering position (5,14) at step 45
+Robot 1 considering position (5,13) at step 44
+Robot 1 considering position (4,14) at step 46
+Robot 1 considering position (38,17) at step 15
+Robot 1 considering position (4,15) at step 47
+Robot 1 considering position (3,14) at step 47
+Robot 1 considering position (4,16) at step 48
+Robot 1 considering position (38,35) at step 33
+Robot 1 considering position (4,17) at step 49
+Robot 1 considering position (3,16) at step 49
+Robot 1 considering position (4,18) at step 50
+Robot 1 considering position (23,42) at step 47
+Robot 1 considering position (4,19) at step 51
+Robot 1 considering position (10,42) at step 60
+Robot 1 considering position (4,20) at step 52
+Robot 1 considering position (11,42) at step 59
+Robot 1 considering position (4,21) at step 53
+Robot 1 considering position (38,15) at step 13
+Robot 1 considering position (4,22) at step 54
+Robot 1 considering position (3,21) at step 54
+Robot 1 considering position (4,23) at step 55
+Robot 1 considering position (38,23) at step 21
+Robot 1 considering position (4,24) at step 56
+Robot 1 considering position (3,23) at step 56
+Robot 1 considering position (4,25) at step 57
+Robot 1 considering position (26,2) at step 12
+Robot 1 considering position (4,26) at step 58
+Robot 1 considering position (38,9) at step 7
+Robot 1 considering position (4,27) at step 59
+Robot 1 considering position (3,26) at step 59
+Robot 1 considering position (4,28) at step 60
+Robot 1 considering position (38,16) at step 14
+Robot 1 considering position (4,29) at step 61
+Robot 1 considering position (3,28) at step 61
+Robot 1 considering position (4,30) at step 62
+Robot 1 considering position (25,42) at step 45
+Robot 1 considering position (4,31) at step 63
+Robot 1 considering position (31,41) at step 40
+Robot 1 considering position (4,32) at step 64
+Robot 1 considering position (38,18) at step 16
+Robot 1 considering position (4,33) at step 65
+Robot 1 considering position (3,32) at step 65
+Robot 1 considering position (4,34) at step 66
+Robot 1 considering position (29,2) at step 9
+Robot 1 considering position (4,35) at step 67
+Robot 1 considering position (14,2) at step 24
+Robot 1 considering position (4,36) at step 68
+Robot 1 considering position (9,18) at step 45
+Robot 1 considering position (4,37) at step 69
+Robot 1 considering position (3,36) at step 69
+Robot 1 considering position (4,38) at step 70
+Robot 1 considering position (38,26) at step 24
+Robot 1 considering position (38,22) at step 20
+Robot 1 considering position (3,38) at step 71
+
+Robot 1 considering position (3,38) at step 71
+Robot 1 considering position (4,38) at step 72
+Robot 1 considering position (3,39) at step 72
+Robot 1 considering position (4,39) at step 73
+Robot 1 considering position (3,40) at step 73
+Robot 1 considering position (4,40) at step 74
+Robot 1 considering position (3,41) at step 74
+Robot 1 considering position (4,41) at step 75
+Robot 1 considering position (3,42) at step 75
+Robot 1 considering position (4,42) at step 76
+Robot 1 considering position (3,43) at step 76
+Robot 1 considering position (4,43) at step 77
+Robot 1 considering position (3,44) at step 77
+Robot 1 considering position (4,44) at step 78
+Robot 1 considering position (3,45) at step 78
+Robot 1 considering position (4,45) at step 79
+Robot 1 considering position (3,46) at step 79
+Robot 1 considering position (4,46) at step 80
+Robot 1 considering position (4,37) at step 73
+Robot 1 considering position (2,38) at step 72
+Robot 1 considering position (2,42) at step 76
+Robot 1 considering position (2,43) at step 77
+Robot 1 considering position (2,39) at step 73
+Robot 1 considering position (2,44) at step 78
+Robot 1 considering position (2,45) at step 79
+Robot 1 considering position (3,37) at step 72
+Robot 1 considering position (2,40) at step 74
+Robot 1 considering position (2,41) at step 75
+Robot 1 considering position (1,40) at step 75
+Robot 1 considering position (1,41) at step 76
+Robot 1 considering position (1,38) at step 73
+Robot 1 considering position (2,46) at step 80
+Robot 1 considering position (1,39) at step 74
+Robot 1 considering position (4,36) at step 74
+Robot 1 considering position (3,47) at step 80
+Robot 1 considering position (4,47) at step 81
+Robot 1 considering position (1,43) at step 78
+Robot 1 considering position (2,37) at step 73
+Robot 1 considering position (1,42) at step 77
+Robot 1 considering position (3,36) at step 73
+Robot 1 considering position (1,44) at step 79
+Robot 1 considering position (1,45) at step 80
+Robot 1 considering position (2,47) at step 81
+Robot 1 considering position (1,37) at step 74
+Robot 1 considering position (3,48) at step 81
+Robot 1 considering position (1,46) at step 81
+Robot 1 considering position (4,48) at step 82
+Robot 1 considering position (3,35) at step 74
+Robot 1 considering position (2,36) at step 74
+Robot 1 considering position (4,35) at step 75
+Robot 1 considering position (2,35) at step 75
+Robot 1 considering position (4,34) at step 76
+Robot 1 considering position (3,49) at step 82
+Robot 1 considering position (2,48) at step 82
+Robot 1 considering position (1,36) at step 75
+Robot 1 considering position (3,34) at step 75
+Robot 1 considering position (1,47) at step 82
+Robot 1 considering position (4,49) at step 83
+Robot 1 considering position (1,35) at step 76
+Robot 1 considering position (4,50) at step 84
+Robot 1 considering position (3,50) at step 83
+Robot 1 considering position (2,49) at step 83
+Robot 1 considering position (2,34) at step 76
+Robot 1 considering position (4,33) at step 77
+Robot 1 considering position (3,33) at step 76
+Robot 1 considering position (1,48) at step 83
+Robot 1 considering position (3,32) at step 77
+Robot 1 considering position (2,33) at step 77
+Robot 1 considering position (1,49) at step 84
+Robot 1 considering position (1,34) at step 77
+Robot 1 considering position (2,50) at step 84
+Robot 1 considering position (4,32) at step 78
+Robot 1 considering position (1,33) at step 78
+Robot 1 considering position (4,31) at step 79
+Robot 1 considering position (1,50) at step 85
+Robot 1 considering position (3,31) at step 78
+Robot 1 considering position (2,32) at step 78
+Robot 1 considering position (3,30) at step 79
+Robot 1 considering position (2,31) at step 79
+Robot 1 considering position (4,30) at step 80
+Robot 1 considering position (1,32) at step 79
+Robot 1 considering position (4,29) at step 81
+Robot 1 considering position (2,30) at step 80
+Robot 1 considering position (3,29) at step 80
+Robot 1 considering position (1,31) at step 80
+Robot 1 considering position (3,28) at step 81
+Robot 1 considering position (1,30) at step 81
+Robot 1 considering position (4,28) at step 82
+Robot 1 considering position (2,29) at step 81
+Robot 1 considering position (4,27) at step 83
+Robot 1 considering position (2,28) at step 82
+Robot 1 considering position (3,27) at step 82
+Robot 1 considering position (1,29) at step 82
+Robot 1 considering position (3,26) at step 83
+Robot 1 considering position (1,28) at step 83
+Robot 1 considering position (4,26) at step 84
+Robot 1 considering position (2,27) at step 83
+Robot 1 considering position (4,25) at step 85
+Robot 1 considering position (2,26) at step 84
+Robot 1 considering position (3,25) at step 84
+Robot 1 considering position (1,27) at step 84
+Robot 1 considering position (3,24) at step 85
+Robot 1 considering position (1,26) at step 85
+Robot 1 considering position (4,24) at step 86
+Robot 1 considering position (2,25) at step 85
+Robot 1 considering position (4,23) at step 87
+Robot 1 considering position (2,24) at step 86
+Robot 1 considering position (3,23) at step 86
+Robot 1 considering position (1,25) at step 86
+Robot 1 considering position (3,22) at step 87
+Robot 1 considering position (1,24) at step 87
+Robot 1 considering position (4,22) at step 88
+Robot 1 considering position (2,23) at step 87
+Robot 1 considering position (4,21) at step 89
+Robot 1 considering position (2,22) at step 88
+Robot 1 considering position (3,21) at step 88
+Robot 1 considering position (1,23) at step 88
+Robot 1 considering position (3,20) at step 89
+Robot 1 considering position (1,22) at step 89
+Robot 1 considering position (4,20) at step 90
+Robot 1 considering position (2,21) at step 89
+Robot 1 considering position (4,19) at step 91
+Robot 1 considering position (2,20) at step 90
+Robot 1 considering position (3,19) at step 90
+Robot 1 considering position (1,21) at step 90
+Robot 1 considering position (3,18) at step 91
+Robot 1 considering position (1,20) at step 91
+Robot 1 considering position (4,18) at step 92
+Robot 1 considering position (2,19) at step 91
+Robot 1 considering position (4,17) at step 93
+Robot 1 considering position (2,18) at step 92
+Robot 1 considering position (3,17) at step 92
+Robot 1 considering position (1,19) at step 92
+Robot 1 considering position (3,16) at step 93
+Robot 1 considering position (1,18) at step 93
+Robot 1 considering position (4,16) at step 94
+Robot 1 considering position (2,17) at step 93
+Robot 1 considering position (4,15) at step 95
+Robot 1 considering position (2,16) at step 94
+Robot 1 considering position (3,15) at step 94
+Robot 1 considering position (1,17) at step 94
+Robot 1 considering position (3,14) at step 95
+Robot 1 considering position (1,16) at step 95
+Robot 1 considering position (4,14) at step 96
+Robot 1 considering position (2,15) at step 95
+Robot 1 considering position (5,14) at step 97
+Robot 1 considering position (6,14) at step 98
+Robot 1 considering position (5,13) at step 98
+Robot 1 considering position (6,13) at step 99
+Robot 1 considering position (3,13) at step 96
+Robot 1 considering position (2,14) at step 96
+Robot 1 considering position (4,13) at step 97
+Robot 1 considering position (1,15) at step 96
+Robot 1 considering position (7,13) at step 100
+Robot 1 considering position (8,13) at step 101
+Robot 1 considering position (9,13) at step 102
+Robot 1 considering position (8,14) at step 102
+Robot 1 considering position (9,14) at step 103
+Robot 1 considering position (8,15) at step 103
+Robot 1 considering position (9,15) at step 104
+Robot 1 considering position (8,16) at step 104
+Robot 1 considering position (9,16) at step 105
+Robot 1 considering position (8,17) at step 105
+Robot 1 considering position (9,17) at step 106
+Robot 1 considering position (8,18) at step 106
+Robot 1 considering position (9,18) at step 107
+Robot 1 considering position (8,19) at step 107
+Robot 1 considering position (9,19) at step 108
+Robot 1 considering position (8,20) at step 108
+Robot 1 considering position (9,20) at step 109
+Robot 1 considering position (8,21) at step 109
+Robot 1 considering position (9,21) at step 110
+Robot 1 considering position (8,22) at step 110
+Robot 1 considering position (9,22) at step 111
+Robot 1 considering position (8,23) at step 111
+Robot 1 considering position (10,22) at step 112
+Robot 1 considering position (9,23) at step 112
+Robot 1 considering position (10,23) at step 113
+Robot 1 considering position (9,24) at step 113
+Robot 1 considering position (8,24) at step 112
+Robot 1 considering position (9,25) at step 114
+Robot 1 considering position (8,25) at step 113
+Robot 1 considering position (9,26) at step 115
+Robot 1 considering position (8,26) at step 114
+Robot 1 considering position (9,27) at step 116
+Robot 1 considering position (8,27) at step 115
+Robot 1 considering position (10,27) at step 117
+Robot 1 considering position (9,28) at step 117
+Robot 1 considering position (8,28) at step 116
+Robot 1 considering position (11,27) at step 118
+Robot 1 considering position (10,28) at step 118
+Robot 1 considering position (9,29) at step 118
+Robot 1 considering position (8,29) at step 117
+Robot 1 considering position (12,27) at step 119
+Robot 1 considering position (8,30) at step 118
+Robot 1 considering position (11,28) at step 119
+Robot 1 considering position (10,29) at step 119
+Robot 1 considering position (11,29) at step 120
+Robot 1 considering position (10,30) at step 120
+Robot 1 considering position (11,30) at step 121
+Robot 1 considering position (10,31) at step 121
+Robot 1 considering position (9,30) at step 119
+Robot 1 considering position (13,27) at step 120
+Robot 1 considering position (9,31) at step 120
+Robot 1 considering position (12,28) at step 120
+Robot 1 considering position (13,28) at step 121
+Robot 1 considering position (8,31) at step 119
+Robot 1 considering position (13,29) at step 122
+Robot 1 considering position (12,29) at step 121
+Robot 1 considering position (13,30) at step 123
+Robot 1 considering position (12,30) at step 122
+Robot 1 considering position (13,31) at step 124
+Robot 1 considering position (12,31) at step 123
+Robot 1 considering position (13,32) at step 125
+Robot 1 considering position (12,32) at step 124
+Robot 1 considering position (11,22) at step 113
+Robot 1 considering position (12,33) at step 125
+Robot 1 considering position (11,23) at step 114
+Robot 1 considering position (12,34) at step 126
+Robot 1 considering position (11,24) at step 115
+Robot 1 considering position (12,35) at step 127
+Robot 1 considering position (12,24) at step 116
+Robot 1 considering position (11,25) at step 116
+Robot 1 considering position (13,35) at step 128
+Robot 1 considering position (13,24) at step 117
+Robot 1 considering position (12,25) at step 117
+Robot 1 considering position (11,26) at step 117
+Robot 1 considering position (13,25) at step 118
+Robot 1 considering position (12,26) at step 118
+Robot 1 considering position (13,26) at step 119
+Robot 1 considering position (11,31) at step 122
+Robot 1 considering position (13,33) at step 126
+Robot 1 considering position (11,32) at step 123
+Robot 1 considering position (12,22) at step 114
+Robot 1 considering position (11,33) at step 124
+Robot 1 considering position (10,24) at step 114
+Robot 1 considering position (11,34) at step 125
+Robot 1 considering position (13,22) at step 115
+Robot 1 considering position (11,35) at step 126
+Robot 1 considering position (10,25) at step 115
+Robot 1 considering position (11,36) at step 127
+Robot 1 considering position (12,23) at step 115
+Robot 1 considering position (13,34) at step 127
+Robot 1 considering position (13,23) at step 116
+Robot 1 considering position (11,37) at step 128
+Robot 1 considering position (10,26) at step 116
+Robot 1 considering position (11,38) at step 129
+Robot 1 considering position (11,39) at step 130
+Robot 1 considering position (12,39) at step 131
+Robot 1 considering position (11,40) at step 131
+Robot 1 considering position (13,39) at step 132
+Robot 1 considering position (12,40) at step 132
+Robot 1 considering position (13,40) at step 133
+Robot 1 considering position (12,41) at step 133
+Robot 1 considering position (13,41) at step 134
+Robot 1 considering position (12,42) at step 134
+Robot 1 considering position (13,42) at step 135
+Robot 1 considering position (12,43) at step 135
+Robot 1 considering position (13,43) at step 136
+Robot 1 considering position (12,44) at step 136
+Robot 1 considering position (13,44) at step 137
+Robot 1 considering position (12,45) at step 137
+Robot 1 considering position (13,45) at step 138
+
+Robot 1 considering position (13,45) at step 138
+Robot 1 considering position (14,45) at step 139
+Robot 1 considering position (13,44) at step 139
+Robot 1 considering position (15,45) at step 140
+Robot 1 considering position (13,43) at step 140
+Robot 1 considering position (15,44) at step 141
+Robot 1 considering position (14,43) at step 141
+Robot 1 considering position (13,42) at step 141
+Robot 1 considering position (14,42) at step 142
+Robot 1 considering position (13,41) at step 142
+Robot 1 considering position (14,44) at step 140
+Robot 1 considering position (13,40) at step 143
+Robot 1 considering position (15,43) at step 142
+Robot 1 considering position (13,39) at step 144
+Robot 1 considering position (15,42) at step 143
+Robot 1 considering position (14,39) at step 145
+Robot 1 considering position (15,41) at step 144
+Robot 1 considering position (15,39) at step 146
+Robot 1 considering position (14,38) at step 146
+Robot 1 considering position (15,40) at step 145
+Robot 1 considering position (15,38) at step 147
+Robot 1 considering position (14,37) at step 147
+Robot 1 considering position (15,37) at step 148
+Robot 1 considering position (14,36) at step 148
+Robot 1 considering position (15,36) at step 149
+Robot 1 considering position (14,35) at step 149
+Robot 1 considering position (14,41) at step 143
+Robot 1 considering position (14,40) at step 144
+Robot 1 considering position (14,34) at step 150
+Robot 1 considering position (14,33) at step 151
+Robot 1 considering position (14,32) at step 152
+Robot 1 considering position (15,32) at step 153
+Robot 1 considering position (14,31) at step 153
+Robot 1 considering position (15,31) at step 154
+Robot 1 considering position (14,30) at step 154
+Robot 1 considering position (15,30) at step 155
+Robot 1 considering position (14,29) at step 155
+Robot 1 considering position (15,29) at step 156
+Robot 1 considering position (14,28) at step 156
+Robot 1 considering position (15,28) at step 157
+Robot 1 considering position (14,27) at step 157
+Robot 1 considering position (15,27) at step 158
+Robot 1 considering position (14,26) at step 158
+Robot 1 considering position (15,26) at step 159
+Robot 1 considering position (14,25) at step 159
+Robot 1 considering position (15,25) at step 160
+Robot 1 considering position (14,24) at step 160
+Robot 1 considering position (15,24) at step 161
+Robot 1 considering position (14,23) at step 161
+Robot 1 considering position (15,23) at step 162
+Robot 1 considering position (14,22) at step 162
+Robot 1 considering position (15,22) at step 163
+Robot 1 considering position (14,21) at step 163
+Robot 1 considering position (15,21) at step 164
+Robot 1 considering position (14,20) at step 164
+Robot 1 considering position (15,20) at step 165
+Robot 1 considering position (14,19) at step 165
+Robot 1 considering position (15,19) at step 166
+Robot 1 considering position (14,18) at step 166
+Robot 1 considering position (15,18) at step 167
+Robot 1 considering position (14,17) at step 167
+Robot 1 considering position (15,17) at step 168
+Robot 1 considering position (14,16) at step 168
+Robot 1 considering position (15,16) at step 169
+Robot 1 considering position (14,15) at step 169
+Robot 1 considering position (15,15) at step 170
+Robot 1 considering position (14,14) at step 170
+Robot 1 considering position (15,14) at step 171
+Robot 1 considering position (14,13) at step 171
+Robot 1 considering position (15,13) at step 172
+Robot 1 considering position (14,12) at step 172
+Robot 1 considering position (15,12) at step 173
+Robot 1 considering position (14,11) at step 173
+Robot 1 considering position (15,11) at step 174
+Robot 1 considering position (14,10) at step 174
+Robot 1 considering position (15,10) at step 175
+Robot 1 considering position (14,9) at step 175
+Robot 1 considering position (15,9) at step 176
+Robot 1 considering position (14,8) at step 176
+Robot 1 considering position (15,8) at step 177
+Robot 1 considering position (14,7) at step 177
+Robot 1 considering position (15,7) at step 178
+Robot 1 considering position (14,6) at step 178
+Robot 1 considering position (15,6) at step 179
+
+Robot 1 considering position (15,6) at step 179
+Robot 1 considering position (16,6) at step 180
+Robot 1 considering position (15,7) at step 180
+Robot 1 considering position (17,6) at step 181
+Robot 1 considering position (16,7) at step 181
+Robot 1 considering position (15,8) at step 181
+Robot 1 considering position (16,8) at step 182
+Robot 1 considering position (15,9) at step 182
+Robot 1 considering position (17,8) at step 183
+Robot 1 considering position (16,9) at step 183
+Robot 1 considering position (15,10) at step 183
+Robot 1 considering position (16,10) at step 184
+Robot 1 considering position (15,11) at step 184
+Robot 1 considering position (18,8) at step 184
+Robot 1 considering position (15,12) at step 185
+Robot 1 considering position (18,9) at step 185
+Robot 1 considering position (16,12) at step 186
+Robot 1 considering position (15,13) at step 186
+Robot 1 considering position (16,13) at step 187
+Robot 1 considering position (19,9) at step 186
+Robot 1 considering position (16,14) at step 188
+Robot 1 considering position (18,10) at step 186
+Robot 1 considering position (16,15) at step 189
+Robot 1 considering position (18,11) at step 187
+Robot 1 considering position (16,16) at step 190
+Robot 1 considering position (18,12) at step 188
+Robot 1 considering position (16,17) at step 191
+Robot 1 considering position (17,12) at step 187
+Robot 1 considering position (18,13) at step 189
+Robot 1 considering position (17,17) at step 192
+Robot 1 considering position (16,18) at step 192
+Robot 1 considering position (19,13) at step 190
+Robot 1 considering position (18,14) at step 190
+Robot 1 considering position (19,14) at step 191
+Robot 1 considering position (18,15) at step 191
+Robot 1 considering position (18,17) at step 193
+Robot 1 considering position (18,16) at step 192
+Robot 1 considering position (18,18) at step 194
+Robot 1 considering position (19,16) at step 193
+Robot 1 considering position (17,18) at step 193
+Robot 1 considering position (16,19) at step 193
+Robot 1 considering position (17,19) at step 194
+Robot 1 considering position (16,20) at step 194
+Robot 1 considering position (17,20) at step 195
+Robot 1 considering position (20,13) at step 191
+Robot 1 considering position (17,21) at step 196
+Robot 1 considering position (20,14) at step 192
+Robot 1 considering position (17,22) at step 197
+Robot 1 considering position (20,15) at step 193
+Robot 1 considering position (19,15) at step 192
+Robot 1 considering position (21,15) at step 194
+Robot 1 considering position (18,22) at step 198
+Robot 1 considering position (21,16) at step 195
+Robot 1 considering position (19,17) at step 194
+Robot 1 considering position (21,17) at step 196
+Robot 1 considering position (20,17) at step 195
+Robot 1 considering position (19,18) at step 195
+Robot 1 considering position (20,18) at step 196
+Robot 1 considering position (19,19) at step 196
+Robot 1 considering position (20,19) at step 197
+Robot 1 considering position (19,20) at step 197
+Robot 1 considering position (20,20) at step 198
+Robot 1 considering position (19,21) at step 198
+Robot 1 considering position (20,21) at step 199
+Robot 1 considering position (21,20) at step 199
+Robot 1 considering position (21,21) at step 200
+Robot 1 considering position (22,20) at step 200
+Robot 1 considering position (22,21) at step 201
+Robot 1 considering position (15,14) at step 187
+Robot 1 considering position (23,21) at step 202
+Robot 1 considering position (15,15) at step 188
+Robot 1 considering position (24,21) at step 203
+Robot 1 considering position (15,16) at step 189
+Robot 1 considering position (18,19) at step 195
+Robot 1 considering position (20,16) at step 194
+Robot 1 considering position (24,22) at step 204
+Robot 1 considering position (25,21) at step 204
+Robot 1 considering position (16,21) at step 195
+Robot 1 considering position (18,20) at step 196
+Robot 1 considering position (16,22) at step 196
+Robot 1 considering position (26,21) at step 205
+Robot 1 considering position (21,13) at step 192
+Robot 1 considering position (17,13) at step 188
+Robot 1 considering position (18,21) at step 197
+Robot 1 considering position (21,14) at step 193
+Robot 1 considering position (26,22) at step 206
+Robot 1 considering position (22,14) at step 194
+Robot 1 considering position (20,9) at step 187
+Robot 1 considering position (23,14) at step 195
+Robot 1 considering position (22,15) at step 195
+Robot 1 considering position (17,7) at step 182
+Robot 1 considering position (17,9) at step 184
+Robot 1 considering position (18,7) at step 183
+Robot 1 considering position (20,10) at step 188
+Robot 1 considering position (19,7) at step 184
+Robot 1 considering position (20,11) at step 189
+Robot 1 considering position (20,7) at step 185
+Robot 1 considering position (20,12) at step 190
+Robot 1 considering position (24,14) at step 196
+Robot 1 considering position (21,12) at step 191
+Robot 1 considering position (27,22) at step 207
+Robot 1 considering position (22,12) at step 192
+Robot 1 considering position (21,7) at step 186
+Robot 1 considering position (23,12) at step 193
+Robot 1 considering position (20,8) at step 186
+Robot 1 considering position (19,10) at step 187
+Robot 1 considering position (23,13) at step 194
+Robot 1 considering position (21,8) at step 187
+Robot 1 considering position (24,13) at step 195
+Robot 1 considering position (22,8) at step 188
+Robot 1 considering position (25,13) at step 196
+Robot 1 considering position (23,8) at step 189
+Robot 1 considering position (22,7) at step 187
+Robot 1 considering position (17,14) at step 189
+Robot 1 considering position (22,16) at step 196
+Robot 1 considering position (23,7) at step 188
+Robot 1 considering position (23,16) at step 197
+Robot 1 considering position (22,17) at step 197
+Robot 1 considering position (23,17) at step 198
+Robot 1 considering position (22,18) at step 198
+Robot 1 considering position (23,18) at step 199
+Robot 1 considering position (22,19) at step 199
+Robot 1 considering position (23,19) at step 200
+Robot 1 considering position (24,18) at step 200
+Robot 1 considering position (24,19) at step 201
+Robot 1 considering position (25,18) at step 201
+Robot 1 considering position (24,20) at step 202
+Robot 1 considering position (24,17) at step 199
+Robot 1 considering position (25,20) at step 203
+Robot 1 considering position (25,17) at step 200
+Robot 1 considering position (26,20) at step 204
+Robot 1 considering position (25,19) at step 202
+Robot 1 considering position (26,18) at step 202
+Robot 1 considering position (26,19) at step 203
+Robot 1 considering position (27,18) at step 203
+Robot 1 considering position (27,19) at step 204
+Robot 1 considering position (24,16) at step 198
+Robot 1 considering position (28,18) at step 204
+Robot 1 considering position (25,16) at step 199
+Robot 1 considering position (26,13) at step 197
+Robot 1 considering position (27,20) at step 205
+Robot 1 considering position (26,17) at step 201
+Robot 1 considering position (26,14) at step 198
+Robot 1 considering position (27,17) at step 202
+Robot 1 considering position (26,15) at step 199
+Robot 1 considering position (27,13) at step 198
+Robot 1 considering position (27,15) at step 200
+Robot 1 considering position (27,14) at step 199
+Robot 1 considering position (27,16) at step 201
+Robot 1 considering position (28,14) at step 200
+Robot 1 considering position (28,16) at step 202
+Robot 1 considering position (29,14) at step 201
+Robot 1 considering position (29,16) at step 203
+Robot 1 considering position (28,15) at step 201
+Robot 1 considering position (30,16) at step 204
+Robot 1 considering position (29,15) at step 202
+Robot 1 considering position (24,12) at step 194
+Robot 1 considering position (30,15) at step 203
+Robot 1 considering position (31,16) at step 205
+Robot 1 considering position (31,15) at step 204
+Robot 1 considering position (31,17) at step 206
+Robot 1 considering position (23,9) at step 190
+Robot 1 considering position (31,18) at step 207
+Robot 1 considering position (24,9) at step 191
+Robot 1 considering position (23,10) at step 191
+Robot 1 considering position (31,19) at step 208
+Robot 1 considering position (25,9) at step 192
+Robot 1 considering position (24,10) at step 192
+Robot 1 considering position (23,11) at step 192
+Robot 1 considering position (32,19) at step 209
+Robot 1 considering position (31,20) at step 209
+Robot 1 considering position (26,9) at step 193
+Robot 1 considering position (25,10) at step 193
+Robot 1 considering position (24,11) at step 193
+Robot 1 considering position (32,20) at step 210
+Robot 1 considering position (31,21) at step 210
+Robot 1 considering position (26,10) at step 194
+Robot 1 considering position (25,11) at step 194
+Robot 1 considering position (32,21) at step 211
+Robot 1 considering position (31,22) at step 211
+Robot 1 considering position (27,10) at step 195
+Robot 1 considering position (26,11) at step 195
+Robot 1 considering position (32,22) at step 212
+
+Robot 2 considering position (35,47) at step 0
+Robot 2 considering position (34,47) at step 1
+Robot 2 considering position (35,46) at step 1
+Robot 2 considering position (33,47) at step 2
+Robot 2 considering position (35,45) at step 2
+Robot 2 considering position (33,46) at step 3
+Robot 2 considering position (34,45) at step 3
+Robot 2 considering position (35,44) at step 3
+Robot 2 considering position (34,44) at step 4
+Robot 2 considering position (35,43) at step 4
+Robot 2 considering position (34,43) at step 5
+Robot 2 considering position (35,42) at step 5
+Robot 2 considering position (32,46) at step 4
+Robot 2 considering position (34,42) at step 6
+Robot 2 considering position (35,41) at step 6
+Robot 2 considering position (34,41) at step 7
+Robot 2 considering position (31,46) at step 5
+Robot 2 considering position (34,40) at step 8
+Robot 2 considering position (32,45) at step 5
+Robot 2 considering position (33,42) at step 7
+Robot 2 considering position (32,44) at step 6
+Robot 2 considering position (32,42) at step 8
+Robot 2 considering position (32,43) at step 7
+Robot 2 considering position (32,41) at step 9
+Robot 2 considering position (31,43) at step 8
+Robot 2 considering position (32,40) at step 10
+Robot 2 considering position (30,43) at step 9
+Robot 2 considering position (35,40) at step 7
+Robot 2 considering position (30,42) at step 10
+Robot 2 considering position (35,39) at step 8
+Robot 2 considering position (33,41) at step 8
+Robot 2 considering position (30,41) at step 11
+Robot 2 considering position (35,38) at step 9
+Robot 2 considering position (30,46) at step 6
+Robot 2 considering position (29,41) at step 12
+Robot 2 considering position (30,40) at step 12
+Robot 2 considering position (34,38) at step 10
+Robot 2 considering position (30,39) at step 13
+Robot 2 considering position (29,46) at step 7
+Robot 2 considering position (30,45) at step 7
+Robot 2 considering position (28,41) at step 13
+Robot 2 considering position (30,44) at step 8
+Robot 2 considering position (29,40) at step 13
+Robot 2 considering position (29,44) at step 9
+Robot 2 considering position (33,38) at step 11
+Robot 2 considering position (28,44) at step 10
+Robot 2 considering position (29,39) at step 14
+Robot 2 considering position (31,45) at step 6
+Robot 2 considering position (29,38) at step 15
+Robot 2 considering position (28,39) at step 15
+Robot 2 considering position (30,38) at step 14
+Robot 2 considering position (27,39) at step 16
+Robot 2 considering position (28,46) at step 8
+Robot 2 considering position (27,38) at step 17
+Robot 2 considering position (28,45) at step 9
+Robot 2 considering position (29,45) at step 8
+Robot 2 considering position (27,45) at step 10
+Robot 2 considering position (26,38) at step 18
+Robot 2 considering position (26,45) at step 11
+Robot 2 considering position (27,41) at step 14
+Robot 2 considering position (26,44) at step 12
+Robot 2 considering position (27,40) at step 15
+Robot 2 considering position (26,43) at step 13
+Robot 2 considering position (26,40) at step 16
+Robot 2 considering position (32,38) at step 12
+Robot 2 considering position (25,40) at step 17
+Robot 2 considering position (33,40) at step 9
+Robot 2 considering position (28,40) at step 14
+Robot 2 considering position (33,39) at step 10
+Robot 2 considering position (24,40) at step 18
+Robot 2 considering position (31,38) at step 13
+Robot 2 considering position (24,39) at step 19
+Robot 2 considering position (27,44) at step 11
+Robot 2 considering position (24,38) at step 20
+Robot 2 considering position (27,43) at step 12
+Robot 2 considering position (28,43) at step 11
+Robot 2 considering position (27,42) at step 13
+Robot 2 considering position (28,42) at step 12
+Robot 2 considering position (23,40) at step 19
+Robot 2 considering position (25,43) at step 14
+Robot 2 considering position (28,38) at step 16
+Robot 2 considering position (25,42) at step 15
+Robot 2 considering position (34,46) at step 2
+Robot 2 considering position (25,41) at step 16
+Robot 2 considering position (24,43) at step 15
+Robot 2 considering position (24,41) at step 17
+Robot 2 considering position (24,42) at step 16
+Robot 2 considering position (23,41) at step 18
+Robot 2 considering position (23,42) at step 17
+Robot 2 considering position (22,41) at step 19
+Robot 2 considering position (22,42) at step 18
+Robot 2 considering position (21,41) at step 20
+Robot 2 considering position (22,40) at step 20
+Robot 2 considering position (21,40) at step 21
+Robot 2 considering position (22,39) at step 21
+Robot 2 considering position (21,39) at step 22
+Robot 2 considering position (22,38) at step 22
+Robot 2 considering position (20,39) at step 23
+Robot 2 considering position (23,43) at step 16
+Robot 2 considering position (19,39) at step 24
+Robot 2 considering position (20,40) at step 22
+Robot 2 considering position (33,45) at step 4
+Robot 2 considering position (19,40) at step 23
+Robot 2 considering position (22,43) at step 17
+Robot 2 considering position (34,39) at step 9
+Robot 2 considering position (31,44) at step 7
+Robot 2 considering position (21,43) at step 18
+Robot 2 considering position (18,40) at step 24
+Robot 2 considering position (23,39) at step 20
+Robot 2 considering position (26,39) at step 17
+Robot 2 considering position (17,40) at step 25
+Robot 2 considering position (20,43) at step 19
+Robot 2 considering position (17,39) at step 26
+Robot 2 considering position (20,42) at step 20
+Robot 2 considering position (17,38) at step 27
+Robot 2 considering position (19,42) at step 21
+Robot 2 considering position (16,38) at step 28
+Robot 2 considering position (18,42) at step 22
+Robot 2 considering position (19,41) at step 22
+Robot 2 considering position (15,38) at step 29
+Robot 2 considering position (17,42) at step 23
+Robot 2 considering position (18,41) at step 23
+Robot 2 considering position (14,38) at step 30
+Robot 2 considering position (16,42) at step 24
+Robot 2 considering position (17,41) at step 24
+Robot 2 considering position (15,42) at step 25
+Robot 2 considering position (16,41) at step 25
+Robot 2 considering position (14,42) at step 26
+Robot 2 considering position (15,41) at step 26
+Robot 2 considering position (13,42) at step 27
+Robot 2 considering position (14,41) at step 27
+Robot 2 considering position (15,40) at step 27
+Robot 2 considering position (12,42) at step 28
+Robot 2 considering position (13,41) at step 28
+Robot 2 considering position (14,40) at step 28
+Robot 2 considering position (15,39) at step 28
+Robot 2 considering position (11,42) at step 29
+Robot 2 considering position (12,41) at step 29
+Robot 2 considering position (13,40) at step 29
+Robot 2 considering position (14,39) at step 29
+Robot 2 considering position (10,42) at step 30
+Robot 2 considering position (11,41) at step 30
+Robot 2 considering position (12,40) at step 30
+Robot 2 considering position (13,39) at step 30
+Robot 2 considering position (9,42) at step 31
+Robot 2 considering position (10,41) at step 31
+Robot 2 considering position (11,40) at step 31
+Robot 2 considering position (12,39) at step 31
+Robot 2 considering position (8,42) at step 32
+Robot 2 considering position (9,41) at step 32
+Robot 2 considering position (10,40) at step 32
+Robot 2 considering position (11,39) at step 32
+Robot 2 considering position (8,41) at step 33
+Robot 2 considering position (9,40) at step 33
+Robot 2 considering position (10,39) at step 33
+Robot 2 considering position (11,38) at step 33
+Robot 2 considering position (8,40) at step 34
+Robot 2 considering position (9,39) at step 34
+Robot 2 considering position (8,39) at step 35
+Robot 2 considering position (18,39) at step 25
+Robot 2 considering position (31,42) at step 9
+Robot 2 considering position (18,38) at step 26
+Robot 2 considering position (23,38) at step 21
+Robot 2 considering position (27,46) at step 9
+Robot 2 considering position (33,44) at step 5
+Robot 2 considering position (26,46) at step 10
+Robot 2 considering position (31,41) at step 10
+Robot 2 considering position (25,46) at step 11
+Robot 2 considering position (25,38) at step 19
+Robot 2 considering position (24,46) at step 12
+Robot 2 considering position (25,45) at step 12
+Robot 2 considering position (23,46) at step 13
+Robot 2 considering position (24,45) at step 13
+Robot 2 considering position (22,46) at step 14
+Robot 2 considering position (23,45) at step 14
+Robot 2 considering position (24,44) at step 14
+Robot 2 considering position (21,46) at step 15
+Robot 2 considering position (22,45) at step 15
+Robot 2 considering position (23,44) at step 15
+Robot 2 considering position (20,46) at step 16
+Robot 2 considering position (21,45) at step 16
+Robot 2 considering position (22,44) at step 16
+Robot 2 considering position (19,46) at step 17
+Robot 2 considering position (20,45) at step 17
+Robot 2 considering position (21,44) at step 17
+Robot 2 considering position (18,46) at step 18
+Robot 2 considering position (19,45) at step 18
+Robot 2 considering position (20,44) at step 18
+Robot 2 considering position (17,46) at step 19
+Robot 2 considering position (18,45) at step 19
+Robot 2 considering position (19,44) at step 19
+Robot 2 considering position (16,46) at step 20
+Robot 2 considering position (17,45) at step 20
+Robot 2 considering position (18,44) at step 20
+Robot 2 considering position (15,46) at step 21
+Robot 2 considering position (16,45) at step 21
+Robot 2 considering position (18,43) at step 21
+Robot 2 considering position (14,46) at step 22
+Robot 2 considering position (17,44) at step 21
+Robot 2 considering position (15,45) at step 22
+Robot 2 considering position (16,44) at step 22
+Robot 2 considering position (17,43) at step 22
+Robot 2 considering position (13,46) at step 23
+Robot 2 considering position (14,45) at step 23
+Robot 2 considering position (15,44) at step 23
+Robot 2 considering position (12,46) at step 24
+Robot 2 considering position (16,43) at step 23
+Robot 2 considering position (13,45) at step 24
+Robot 2 considering position (14,44) at step 24
+Robot 2 considering position (15,43) at step 24
+Robot 2 considering position (11,46) at step 25
+Robot 2 considering position (12,45) at step 25
+Robot 2 considering position (13,44) at step 25
+Robot 2 considering position (10,46) at step 26
+Robot 2 considering position (14,43) at step 25
+Robot 2 considering position (11,45) at step 26
+Robot 2 considering position (12,44) at step 26
+Robot 2 considering position (13,43) at step 26
+Robot 2 considering position (9,46) at step 27
+Robot 2 considering position (10,45) at step 27
+Robot 2 considering position (11,44) at step 27
+Robot 2 considering position (8,46) at step 28
+Robot 2 considering position (12,43) at step 27
+Robot 2 considering position (9,45) at step 28
+Robot 2 considering position (10,44) at step 28
+Robot 2 considering position (11,43) at step 28
+Robot 2 considering position (8,45) at step 29
+Robot 2 considering position (10,43) at step 29
+Robot 2 considering position (9,44) at step 29
+Robot 2 considering position (8,44) at step 30
+Robot 2 considering position (9,43) at step 30
+Robot 2 considering position (8,43) at step 31
+Robot 2 considering position (31,40) at step 11
+Robot 2 considering position (26,41) at step 15
+Robot 2 considering position (31,39) at step 12
+Robot 2 considering position (32,47) at step 3
+Robot 2 considering position (32,39) at step 11
+Robot 2 considering position (31,47) at step 4
+Robot 2 considering position (29,43) at step 10
+Robot 2 considering position (30,47) at step 5
+Robot 2 considering position (25,44) at step 13
+Robot 2 considering position (29,47) at step 6
+Robot 2 considering position (21,42) at step 19
+Robot 2 considering position (28,47) at step 7
+Robot 2 considering position (26,42) at step 14
+Robot 2 considering position (27,47) at step 8
+Robot 2 considering position (20,41) at step 21
+Robot 2 considering position (26,47) at step 9
+Robot 2 considering position (16,40) at step 26
+Robot 2 considering position (16,39) at step 27
+Robot 2 considering position (25,47) at step 10
+Robot 2 considering position (33,43) at step 6
+Robot 2 considering position (25,39) at step 18
+Robot 2 considering position (19,43) at step 20
+Robot 2 considering position (29,42) at step 11
+Robot 2 considering position (24,47) at step 11
+Robot 2 considering position (23,47) at step 12
+Robot 2 considering position (22,47) at step 13
+Robot 2 considering position (21,47) at step 14
+Robot 2 considering position (20,47) at step 15
+Robot 2 considering position (19,47) at step 16
+Robot 2 considering position (18,47) at step 17
+Robot 2 considering position (17,47) at step 18
+Robot 2 considering position (16,47) at step 19
+Robot 2 considering position (15,47) at step 20
+Robot 2 considering position (14,47) at step 21
+Robot 2 considering position (13,47) at step 22
+Robot 2 considering position (12,47) at step 23
+Robot 2 considering position (11,47) at step 24
+Robot 2 considering position (10,47) at step 25
+Robot 2 considering position (9,47) at step 26
+Robot 2 considering position (8,47) at step 27
+Robot 2 considering position (9,48) at step 27
+Robot 2 considering position (8,48) at step 28
+Robot 2 considering position (26,48) at step 10
+Robot 2 considering position (27,48) at step 9
+Robot 2 considering position (29,48) at step 7
+Robot 2 considering position (30,48) at step 6
+Robot 2 considering position (31,48) at step 5
+Robot 2 considering position (35,48) at step 1
+Robot 2 considering position (36,44) at step 4
+Robot 2 considering position (18,48) at step 18
+Robot 2 considering position (33,48) at step 3
+Robot 2 considering position (28,48) at step 8
+Robot 2 considering position (36,46) at step 2
+Robot 2 considering position (33,37) at step 12
+Robot 2 considering position (16,48) at step 20
+Robot 2 considering position (27,37) at step 18
+Robot 2 considering position (24,48) at step 12
+Robot 2 considering position (15,37) at step 30
+Robot 2 considering position (16,37) at step 29
+Robot 2 considering position (19,48) at step 17
+Robot 2 considering position (15,48) at step 21
+Robot 2 considering position (17,48) at step 19
+Robot 2 considering position (36,43) at step 5
+Robot 2 considering position (30,37) at step 15
+Robot 2 considering position (36,39) at step 9
+Robot 2 considering position (29,37) at step 16
+Robot 2 considering position (24,37) at step 21
+Robot 2 considering position (31,37) at step 14
+Robot 2 considering position (17,37) at step 28
+Robot 2 considering position (26,37) at step 19
+Robot 2 considering position (36,40) at step 8
+Robot 2 considering position (34,48) at step 2
+Robot 2 considering position (32,37) at step 13
+Robot 2 considering position (10,48) at step 26
+Robot 2 considering position (36,45) at step 3
+Robot 2 considering position (22,37) at step 23
+Robot 2 considering position (36,38) at step 10
+Robot 2 considering position (28,37) at step 17
+Robot 2 considering position (36,47) at step 1
+Robot 2 considering position (34,37) at step 11
+Robot 2 considering position (22,48) at step 14
+Robot 2 considering position (23,48) at step 13
+Robot 2 considering position (25,37) at step 20
+Robot 2 considering position (23,37) at step 22
+Robot 2 considering position (36,41) at step 7
+Robot 2 considering position (18,37) at step 27
+Robot 2 considering position (20,48) at step 16
+Robot 2 considering position (21,48) at step 15
+Robot 2 considering position (14,37) at step 31
+Robot 2 considering position (11,48) at step 25
+Robot 2 considering position (12,48) at step 24
+Robot 2 considering position (13,48) at step 23
+Robot 2 considering position (11,37) at step 34
+Robot 2 considering position (14,48) at step 22
+Robot 2 considering position (36,42) at step 6
+Robot 2 considering position (32,48) at step 4
+Robot 2 considering position (25,48) at step 11
+Robot 2 considering position (35,37) at step 10
+Robot 2 considering position (25,49) at step 12
+Robot 2 considering position (35,36) at step 11
+Robot 2 considering position (37,40) at step 9
+Robot 2 considering position (16,49) at step 21
+Robot 2 considering position (31,49) at step 6
+Robot 2 considering position (26,49) at step 11
+Robot 2 considering position (9,49) at step 28
+Robot 2 considering position (8,49) at step 29
+Robot 2 considering position (30,49) at step 7
+Robot 2 considering position (27,49) at step 10
+Robot 2 considering position (29,49) at step 8
+Robot 2 considering position (33,36) at step 13
+Robot 2 considering position (18,49) at step 19
+Robot 2 considering position (35,49) at step 2
+Robot 2 considering position (37,44) at step 5
+Robot 2 considering position (37,46) at step 3
+Robot 2 considering position (33,49) at step 4
+Robot 2 considering position (28,49) at step 9
+Robot 2 considering position (26,36) at step 20
+Robot 2 considering position (17,49) at step 20
+Robot 2 considering position (15,36) at step 31
+Robot 2 considering position (27,36) at step 19
+Robot 2 considering position (24,49) at step 13
+Robot 2 considering position (15,49) at step 22
+Robot 2 considering position (16,36) at step 30
+Robot 2 considering position (19,49) at step 18
+Robot 2 considering position (17,36) at step 29
+Robot 2 considering position (37,39) at step 10
+Robot 2 considering position (37,43) at step 6
+Robot 2 considering position (30,36) at step 16
+Robot 2 considering position (31,36) at step 15
+Robot 2 considering position (29,36) at step 17
+Robot 2 considering position (24,36) at step 22
+Robot 2 considering position (32,49) at step 5
+Robot 2 considering position (18,36) at step 28
+Robot 2 considering position (28,36) at step 18
+Robot 2 considering position (10,49) at step 27
+Robot 2 considering position (34,49) at step 3
+Robot 2 considering position (32,36) at step 14
+Robot 2 considering position (36,37) at step 11
+Robot 2 considering position (37,45) at step 4
+Robot 2 considering position (22,36) at step 24
+Robot 2 considering position (37,41) at step 8
+Robot 2 considering position (22,49) at step 15
+Robot 2 considering position (37,47) at step 2
+Robot 2 considering position (34,36) at step 12
+Robot 2 considering position (23,36) at step 23
+Robot 2 considering position (23,49) at step 14
+Robot 2 considering position (25,36) at step 21
+Robot 2 considering position (37,42) at step 7
+Robot 2 considering position (12,49) at step 25
+Robot 2 considering position (14,36) at step 32
+Robot 2 considering position (20,49) at step 17
+Robot 2 considering position (21,49) at step 16
+Robot 2 considering position (11,49) at step 26
+Robot 2 considering position (36,48) at step 2
+Robot 2 considering position (37,38) at step 11
+Robot 2 considering position (14,49) at step 23
+Robot 2 considering position (13,49) at step 24
+Robot 2 considering position (11,36) at step 35
+Robot 2 considering position (13,50) at step 25
+Robot 2 considering position (11,35) at step 36
+Robot 2 considering position (12,50) at step 26
+Robot 2 considering position (31,35) at step 16
+Robot 2 considering position (38,44) at step 6
+Robot 2 considering position (9,50) at step 29
+Robot 2 considering position (38,40) at step 10
+Robot 2 considering position (38,42) at step 8
+Robot 2 considering position (25,50) at step 13
+Robot 2 considering position (35,35) at step 12
+Robot 2 considering position (23,50) at step 15
+Robot 2 considering position (26,50) at step 12
+Robot 2 considering position (16,50) at step 22
+Robot 2 considering position (23,35) at step 24
+Robot 2 considering position (38,41) at step 9
+Robot 2 considering position (31,50) at step 7
+Robot 2 considering position (35,50) at step 3
+Robot 2 considering position (22,35) at step 25
+Robot 2 considering position (27,50) at step 11
+Robot 2 considering position (8,50) at step 30
+Robot 2 considering position (21,35) at step 26
+Robot 2 considering position (37,37) at step 12
+Robot 2 considering position (30,50) at step 8
+Robot 2 considering position (18,50) at step 20
+Robot 2 considering position (29,50) at step 9
+Robot 2 considering position (20,35) at step 27
+Robot 2 considering position (32,35) at step 15
+Robot 2 considering position (33,35) at step 14
+Robot 2 considering position (30,35) at step 17
+Robot 2 considering position (27,35) at step 20
+Robot 2 considering position (28,50) at step 10
+Robot 2 considering position (38,46) at step 4
+Robot 2 considering position (19,35) at step 28
+Robot 2 considering position (33,50) at step 5
+Robot 2 considering position (36,49) at step 3
+Robot 2 considering position (28,35) at step 19
+Robot 2 considering position (26,35) at step 21
+Robot 2 considering position (17,50) at step 21
+Robot 2 considering position (38,43) at step 7
+Robot 2 considering position (18,35) at step 29
+Robot 2 considering position (36,36) at step 12
+Robot 2 considering position (24,50) at step 14
+Robot 2 considering position (24,35) at step 23
+Robot 2 considering position (29,35) at step 18
+Robot 2 considering position (15,50) at step 23
+Robot 2 considering position (38,39) at step 11
+Robot 2 considering position (19,50) at step 19
+Robot 2 considering position (17,35) at step 30
+Robot 2 considering position (14,50) at step 24
+Robot 2 considering position (34,35) at step 13
+Robot 2 considering position (34,50) at step 4
+Robot 2 considering position (32,50) at step 6
+Robot 2 considering position (10,50) at step 28
+Robot 2 considering position (37,48) at step 3
+Robot 2 considering position (38,45) at step 5
+Robot 2 considering position (22,50) at step 16
+Robot 2 considering position (38,38) at step 12
+Robot 2 considering position (20,50) at step 18
+Robot 2 considering position (25,35) at step 22
+Robot 2 considering position (14,35) at step 33
+Robot 2 considering position (38,47) at step 3
+Robot 2 considering position (13,35) at step 34
+Robot 2 considering position (21,50) at step 17
+Robot 2 considering position (12,35) at step 35
+Robot 2 considering position (11,50) at step 27
+Robot 2 considering position (12,34) at step 36
+Robot 2 considering position (22,34) at step 26
+Robot 2 considering position (13,34) at step 35
+Robot 2 considering position (38,37) at step 13
+Robot 2 considering position (35,34) at step 13
+Robot 2 considering position (31,34) at step 17
+Robot 2 considering position (11,34) at step 37
+Robot 2 considering position (33,34) at step 15
+Robot 2 considering position (39,42) at step 9
+Robot 2 considering position (39,44) at step 7
+Robot 2 considering position (39,40) at step 11
+Robot 2 considering position (37,36) at step 13
+Robot 2 considering position (39,41) at step 10
+Robot 2 considering position (36,35) at step 13
+Robot 2 considering position (23,34) at step 25
+Robot 2 considering position (21,34) at step 27
+Robot 2 considering position (36,50) at step 4
+Robot 2 considering position (14,34) at step 34
+Robot 2 considering position (39,39) at step 12
+Robot 2 considering position (18,34) at step 30
+Robot 2 considering position (39,46) at step 5
+Robot 2 considering position (29,34) at step 19
+Robot 2 considering position (26,34) at step 22
+Robot 2 considering position (24,34) at step 24
+Robot 2 considering position (19,34) at step 29
+Robot 2 considering position (30,34) at step 18
+Robot 2 considering position (28,34) at step 20
+Robot 2 considering position (39,43) at step 8
+Robot 2 considering position (17,34) at step 31
+Robot 2 considering position (27,34) at step 21
+Robot 2 considering position (34,34) at step 14
+Robot 2 considering position (37,49) at step 4
+Robot 2 considering position (39,47) at step 4
+Robot 2 considering position (32,34) at step 16
+Robot 2 considering position (38,48) at step 4
+Robot 2 considering position (39,45) at step 6
+Robot 2 considering position (25,34) at step 23
+Robot 2 considering position (39,38) at step 13
+Robot 2 considering position (20,34) at step 28
+Robot 2 considering position (33,33) at step 16
+Robot 2 considering position (20,33) at step 29
+Robot 2 considering position (29,33) at step 20
+Robot 2 considering position (36,34) at step 14
+Robot 2 considering position (11,33) at step 38
+Robot 2 considering position (13,33) at step 36
+Robot 2 considering position (12,33) at step 37
+Robot 2 considering position (22,33) at step 27
+Robot 2 considering position (31,33) at step 18
+Robot 2 considering position (38,36) at step 14
+Robot 2 considering position (35,33) at step 14
+Robot 2 considering position (39,37) at step 14
+Robot 2 considering position (40,44) at step 8
+Robot 2 considering position (37,35) at step 14
+Robot 2 considering position (40,46) at step 6
+Robot 2 considering position (37,50) at step 5
+Robot 2 considering position (23,33) at step 26
+Robot 2 considering position (21,33) at step 28
+Robot 2 considering position (18,33) at step 31
+Robot 2 considering position (14,33) at step 35
+Robot 2 considering position (40,42) at step 10
+Robot 2 considering position (25,33) at step 24
+Robot 2 considering position (17,33) at step 32
+Robot 2 considering position (19,33) at step 30
+Robot 2 considering position (26,33) at step 23
+Robot 2 considering position (24,33) at step 25
+Robot 2 considering position (40,43) at step 9
+Robot 2 considering position (30,33) at step 19
+Robot 2 considering position (32,33) at step 17
+Robot 2 considering position (28,33) at step 21
+Robot 2 considering position (40,45) at step 7
+Robot 2 considering position (38,49) at step 5
+Robot 2 considering position (39,48) at step 5
+Robot 2 considering position (27,33) at step 22
+Robot 2 considering position (34,33) at step 15
+Robot 2 considering position (40,47) at step 5
+Robot 2 considering position (34,32) at step 16
+Robot 2 considering position (32,32) at step 18
+Robot 2 considering position (18,32) at step 32
+Robot 2 considering position (35,32) at step 15
+Robot 2 considering position (12,32) at step 38
+Robot 2 considering position (29,32) at step 21
+Robot 2 considering position (13,32) at step 37
+Robot 2 considering position (38,35) at step 15
+Robot 2 considering position (22,32) at step 28
+Robot 2 considering position (31,32) at step 19
+Robot 2 considering position (21,32) at step 29
+Robot 2 considering position (36,33) at step 15
+Robot 2 considering position (37,34) at step 15
+Robot 2 considering position (11,32) at step 39
+Robot 2 considering position (23,32) at step 27
+Robot 2 considering position (20,32) at step 30
+Robot 2 considering position (38,50) at step 6
+Robot 2 considering position (27,32) at step 23
+Robot 2 considering position (24,32) at step 26
+Robot 2 considering position (25,32) at step 25
+Robot 2 considering position (14,32) at step 36
+Robot 2 considering position (33,32) at step 17
+Robot 2 considering position (26,32) at step 24
+Robot 2 considering position (17,32) at step 33
+Robot 2 considering position (19,32) at step 31
+Robot 2 considering position (40,48) at step 6
+Robot 2 considering position (28,32) at step 22
+Robot 2 considering position (30,32) at step 20
+Robot 2 considering position (39,49) at step 6
+Robot 2 considering position (16,32) at step 34
+Robot 2 considering position (15,32) at step 35
+Robot 2 considering position (16,31) at step 35
+Robot 2 considering position (15,31) at step 36
+Robot 2 considering position (23,31) at step 28
+Robot 2 considering position (13,31) at step 38
+Robot 2 considering position (18,31) at step 33
+Robot 2 considering position (34,31) at step 17
+Robot 2 considering position (32,31) at step 19
+Robot 2 considering position (29,31) at step 22
+Robot 2 considering position (35,31) at step 16
+Robot 2 considering position (12,31) at step 39
+Robot 2 considering position (11,31) at step 40
+Robot 2 considering position (31,31) at step 20
+Robot 2 considering position (38,34) at step 16
+Robot 2 considering position (22,31) at step 29
+Robot 2 considering position (36,32) at step 16
+Robot 2 considering position (21,31) at step 30
+Robot 2 considering position (37,33) at step 16
+Robot 2 considering position (19,31) at step 32
+Robot 2 considering position (10,31) at step 41
+Robot 2 considering position (33,31) at step 18
+Robot 2 considering position (27,31) at step 24
+Robot 2 considering position (20,31) at step 31
+Robot 2 considering position (39,50) at step 7
+Robot 2 considering position (14,31) at step 37
+Robot 2 considering position (24,31) at step 27
+Robot 2 considering position (25,31) at step 26
+Robot 2 considering position (30,31) at step 21
+Robot 2 considering position (28,31) at step 23
+Robot 2 considering position (26,31) at step 25
+Robot 2 considering position (17,31) at step 34
+Robot 2 considering position (40,49) at step 7
+Robot 2 considering position (9,31) at step 42
+Robot 2 considering position (8,31) at step 43
+Robot 2 considering position (9,30) at step 43
+Robot 2 considering position (8,30) at step 44
+Robot 2 considering position (37,32) at step 17
+Robot 2 considering position (32,30) at step 20
+Robot 2 considering position (23,30) at step 29
+Robot 2 considering position (16,30) at step 36
+Robot 2 considering position (15,30) at step 37
+Robot 2 considering position (34,30) at step 18
+Robot 2 considering position (13,30) at step 39
+Robot 2 considering position (18,30) at step 34
+Robot 2 considering position (22,30) at step 30
+Robot 2 considering position (12,30) at step 40
+Robot 2 considering position (29,30) at step 23
+Robot 2 considering position (35,30) at step 17
+Robot 2 considering position (38,33) at step 17
+Robot 2 considering position (11,30) at step 41
+Robot 2 considering position (31,30) at step 21
+Robot 2 considering position (30,30) at step 22
+Robot 2 considering position (40,50) at step 8
+Robot 2 considering position (10,30) at step 42
+Robot 2 considering position (21,30) at step 31
+Robot 2 considering position (19,30) at step 33
+Robot 2 considering position (20,30) at step 32
+Robot 2 considering position (33,30) at step 19
+Robot 2 considering position (27,30) at step 25
+Robot 2 considering position (17,30) at step 35
+Robot 2 considering position (25,30) at step 27
+Robot 2 considering position (14,30) at step 38
+Robot 2 considering position (24,30) at step 28
+Robot 2 considering position (26,30) at step 26
+Robot 2 considering position (36,31) at step 17
+Robot 2 considering position (28,30) at step 24
+Robot 2 considering position (25,29) at step 28
+Robot 2 considering position (28,29) at step 25
+Robot 2 considering position (36,30) at step 18
+Robot 2 considering position (15,29) at step 38
+Robot 2 considering position (37,31) at step 18
+Robot 2 considering position (9,29) at step 44
+Robot 2 considering position (8,29) at step 45
+Robot 2 considering position (16,29) at step 37
+Robot 2 considering position (32,29) at step 21
+Robot 2 considering position (23,29) at step 30
+Robot 2 considering position (35,29) at step 18
+Robot 2 considering position (18,29) at step 35
+Robot 2 considering position (34,29) at step 19
+Robot 2 considering position (13,29) at step 40
+Robot 2 considering position (29,29) at step 24
+Robot 2 considering position (22,29) at step 31
+Robot 2 considering position (12,29) at step 41
+Robot 2 considering position (26,29) at step 27
+Robot 2 considering position (19,29) at step 34
+Robot 2 considering position (30,29) at step 23
+Robot 2 considering position (11,29) at step 42
+Robot 2 considering position (31,29) at step 22
+Robot 2 considering position (21,29) at step 32
+Robot 2 considering position (38,32) at step 18
+Robot 2 considering position (10,29) at step 43
+Robot 2 considering position (24,29) at step 29
+Robot 2 considering position (27,29) at step 26
+Robot 2 considering position (20,29) at step 33
+Robot 2 considering position (33,29) at step 20
+Robot 2 considering position (14,29) at step 39
+Robot 2 considering position (17,29) at step 36
+Robot 2 considering position (14,28) at step 40
+Robot 2 considering position (17,28) at step 37
+Robot 2 considering position (29,28) at step 25
+Robot 2 considering position (8,28) at step 46
+Robot 2 considering position (36,29) at step 19
+Robot 2 considering position (25,28) at step 29
+Robot 2 considering position (28,28) at step 26
+Robot 2 considering position (9,28) at step 45
+Robot 2 considering position (15,28) at step 39
+Robot 2 considering position (38,31) at step 19
+Robot 2 considering position (13,28) at step 41
+Robot 2 considering position (23,28) at step 31
+Robot 2 considering position (16,28) at step 38
+Robot 2 considering position (32,28) at step 22
+Robot 2 considering position (34,28) at step 20
+Robot 2 considering position (35,28) at step 19
+Robot 2 considering position (18,28) at step 36
+Robot 2 considering position (33,28) at step 21
+Robot 2 considering position (31,28) at step 23
+Robot 2 considering position (26,28) at step 28
+Robot 2 considering position (22,28) at step 32
+Robot 2 considering position (12,28) at step 42
+Robot 2 considering position (24,28) at step 30
+Robot 2 considering position (11,28) at step 43
+Robot 2 considering position (19,28) at step 35
+Robot 2 considering position (30,28) at step 24
+Robot 2 considering position (37,30) at step 19
+Robot 2 considering position (20,28) at step 34
+Robot 2 considering position (10,28) at step 44
+Robot 2 considering position (21,28) at step 33
+Robot 2 considering position (27,28) at step 27
+Robot 2 considering position (31,27) at step 24
+Robot 2 considering position (27,27) at step 28
+Robot 2 considering position (18,27) at step 37
+Robot 2 considering position (34,27) at step 21
+Robot 2 considering position (28,27) at step 27
+Robot 2 considering position (35,27) at step 20
+Robot 2 considering position (37,29) at step 20
+Robot 2 considering position (29,27) at step 26
+Robot 2 considering position (14,27) at step 41
+Robot 2 considering position (17,27) at step 38
+Robot 2 considering position (25,27) at step 30
+Robot 2 considering position (8,27) at step 47
+Robot 2 considering position (36,28) at step 20
+Robot 2 considering position (32,27) at step 23
+Robot 2 considering position (38,30) at step 20
+Robot 2 considering position (13,27) at step 42
+Robot 2 considering position (9,27) at step 46
+Robot 2 considering position (15,27) at step 40
+Robot 2 considering position (16,27) at step 39
+Robot 2 considering position (10,27) at step 45
+Robot 2 considering position (24,27) at step 31
+Robot 2 considering position (33,27) at step 22
+Robot 2 considering position (12,27) at step 43
+Robot 2 considering position (26,27) at step 29
+Robot 2 considering position (30,27) at step 25
+Robot 2 considering position (11,27) at step 44
+Robot 2 considering position (38,29) at step 21
+Robot 2 considering position (11,26) at step 45
+Robot 2 considering position (9,26) at step 47
+Robot 2 considering position (17,26) at step 39
+Robot 2 considering position (35,26) at step 21
+Robot 2 considering position (27,26) at step 29
+Robot 2 considering position (18,26) at step 38
+Robot 2 considering position (14,26) at step 42
+Robot 2 considering position (37,28) at step 21
+Robot 2 considering position (13,26) at step 43
+Robot 2 considering position (36,27) at step 21
+Robot 2 considering position (8,26) at step 48
+Robot 2 considering position (26,26) at step 30
+Robot 2 considering position (10,26) at step 46
+Robot 2 considering position (15,26) at step 41
+Robot 2 considering position (16,26) at step 40
+Robot 2 considering position (12,26) at step 44
+Robot 2 considering position (24,26) at step 32
+Robot 2 considering position (25,26) at step 31
+Robot 2 considering position (24,25) at step 33
+Robot 2 considering position (25,25) at step 32
+Robot 2 considering position (13,25) at step 44
+Robot 2 considering position (27,25) at step 30
+Robot 2 considering position (9,25) at step 48
+Robot 2 considering position (38,28) at step 22
+Robot 2 considering position (11,25) at step 46
+Robot 2 considering position (35,25) at step 22
+Robot 2 considering position (17,25) at step 40
+Robot 2 considering position (37,27) at step 22
+Robot 2 considering position (18,25) at step 39
+Robot 2 considering position (14,25) at step 43
+Robot 2 considering position (12,25) at step 45
+Robot 2 considering position (26,25) at step 31
+Robot 2 considering position (36,26) at step 22
+Robot 2 considering position (8,25) at step 49
+Robot 2 considering position (16,25) at step 41
+Robot 2 considering position (10,25) at step 47
+Robot 2 considering position (15,25) at step 42
+Robot 2 considering position (10,24) at step 48
+Robot 2 considering position (15,24) at step 43
+Robot 2 considering position (37,26) at step 23
+Robot 2 considering position (38,27) at step 23
+Robot 2 considering position (13,24) at step 45
+Robot 2 considering position (24,24) at step 34
+Robot 2 considering position (25,24) at step 33
+Robot 2 considering position (9,24) at step 49
+Robot 2 considering position (27,24) at step 31
+Robot 2 considering position (17,24) at step 41
+Robot 2 considering position (11,24) at step 47
+Robot 2 considering position (35,24) at step 23
+Robot 2 considering position (16,24) at step 42
+Robot 2 considering position (12,24) at step 46
+Robot 2 considering position (18,24) at step 40
+Robot 2 considering position (14,24) at step 44
+Robot 2 considering position (8,24) at step 50
+Robot 2 considering position (26,24) at step 32
+Robot 2 considering position (36,25) at step 23
+Robot 2 considering position (26,23) at step 33
+Robot 2 considering position (36,24) at step 24
+Robot 2 considering position (17,23) at step 42
+Robot 2 considering position (24,23) at step 35
+Robot 2 considering position (37,25) at step 24
+Robot 2 considering position (10,23) at step 49
+Robot 2 considering position (15,23) at step 44
+Robot 2 considering position (13,23) at step 46
+Robot 2 considering position (38,26) at step 24
+Robot 2 considering position (27,23) at step 32
+Robot 2 considering position (25,23) at step 34
+Robot 2 considering position (9,23) at step 50
+Robot 2 considering position (8,23) at step 51
+Robot 2 considering position (16,23) at step 43
+Robot 2 considering position (11,23) at step 48
+Robot 2 considering position (35,23) at step 24
+Robot 2 considering position (14,23) at step 45
+Robot 2 considering position (12,23) at step 47
+Robot 2 considering position (18,23) at step 41
+Robot 2 considering position (12,22) at step 48
+Robot 2 considering position (18,22) at step 42
+Robot 2 considering position (27,22) at step 33
+Robot 2 considering position (10,22) at step 50
+Robot 2 considering position (17,22) at step 43
+Robot 2 considering position (24,22) at step 36
+Robot 2 considering position (26,22) at step 34
+Robot 2 considering position (36,23) at step 25
+Robot 2 considering position (38,25) at step 25
+Robot 2 considering position (37,24) at step 25
+Robot 2 considering position (15,22) at step 45
+Robot 2 considering position (13,22) at step 47
+Robot 2 considering position (14,22) at step 46
+Robot 2 considering position (8,22) at step 52
+Robot 2 considering position (25,22) at step 35
+Robot 2 considering position (9,22) at step 51
+Robot 2 considering position (35,22) at step 25
+Robot 2 considering position (16,22) at step 44
+Robot 2 considering position (11,22) at step 49
+Robot 2 considering position (16,21) at step 45
+Robot 2 considering position (11,21) at step 50
+Robot 2 considering position (37,23) at step 26
+Robot 2 considering position (24,21) at step 37
+Robot 2 considering position (27,21) at step 34
+Robot 2 considering position (12,21) at step 49
+Robot 2 considering position (18,21) at step 43
+Robot 2 considering position (17,21) at step 44
+Robot 2 considering position (23,21) at step 38
+Robot 2 considering position (38,24) at step 26
+Robot 2 considering position (26,21) at step 35
+Robot 2 considering position (36,22) at step 26
+Robot 2 considering position (22,21) at step 39
+Robot 2 considering position (35,21) at step 26
+Robot 2 considering position (21,21) at step 40
+Robot 2 considering position (14,21) at step 47
+Robot 2 considering position (20,21) at step 41
+Robot 2 considering position (15,21) at step 46
+Robot 2 considering position (19,21) at step 42
+Robot 2 considering position (13,21) at step 48
+Robot 2 considering position (9,21) at step 52
+Robot 2 considering position (8,21) at step 53
+Robot 2 considering position (25,21) at step 36
+Robot 2 considering position (8,20) at step 54
+Robot 2 considering position (25,20) at step 37
+Robot 2 considering position (20,20) at step 42
+Robot 2 considering position (12,20) at step 50
+Robot 2 considering position (37,22) at step 27
+Robot 2 considering position (16,20) at step 46
+Robot 2 considering position (11,20) at step 51
+Robot 2 considering position (27,20) at step 35
+Robot 2 considering position (38,23) at step 27
+Robot 2 considering position (24,20) at step 38
+Robot 2 considering position (21,20) at step 41
+Robot 2 considering position (18,20) at step 44
+Robot 2 considering position (17,20) at step 45
+Robot 2 considering position (23,20) at step 39
+Robot 2 considering position (22,20) at step 40
+Robot 2 considering position (26,20) at step 36
+Robot 2 considering position (9,20) at step 53
+Robot 2 considering position (14,20) at step 48
+Robot 2 considering position (36,21) at step 27
+Robot 2 considering position (35,20) at step 27
+Robot 2 considering position (13,20) at step 49
+Robot 2 considering position (15,20) at step 47
+Robot 2 considering position (19,20) at step 43
+Robot 2 considering position (15,19) at step 48
+Robot 2 considering position (19,19) at step 44
+Robot 2 considering position (23,19) at step 40
+Robot 2 considering position (11,19) at step 52
+Robot 2 considering position (20,19) at step 43
+Robot 2 considering position (8,19) at step 55
+Robot 2 considering position (25,19) at step 38
+Robot 2 considering position (16,19) at step 47
+Robot 2 considering position (12,19) at step 51
+Robot 2 considering position (37,21) at step 28
+Robot 2 considering position (17,19) at step 46
+Robot 2 considering position (24,19) at step 39
+Robot 2 considering position (27,19) at step 36
+Robot 2 considering position (38,22) at step 28
+Robot 2 considering position (18,19) at step 45
+Robot 2 considering position (21,19) at step 42
+Robot 2 considering position (13,19) at step 50
+Robot 2 considering position (9,19) at step 54
+Robot 2 considering position (22,19) at step 41
+Robot 2 considering position (26,19) at step 37
+Robot 2 considering position (35,19) at step 28
+Robot 2 considering position (14,19) at step 49
+Robot 2 considering position (36,20) at step 28
+Robot 2 considering position (14,18) at step 50
+Robot 2 considering position (36,19) at step 29
+Robot 2 considering position (38,21) at step 29
+Robot 2 considering position (25,18) at step 39
+Robot 2 considering position (23,18) at step 41
+Robot 2 considering position (15,18) at step 49
+Robot 2 considering position (19,18) at step 45
+Robot 2 considering position (8,18) at step 56
+Robot 2 considering position (11,18) at step 53
+Robot 2 considering position (20,18) at step 44
+Robot 2 considering position (27,18) at step 37
+Robot 2 considering position (37,20) at step 29
+Robot 2 considering position (16,18) at step 48
+Robot 2 considering position (12,18) at step 52
+Robot 2 considering position (24,18) at step 40
+Robot 2 considering position (17,18) at step 47
+Robot 2 considering position (35,18) at step 29
+Robot 2 considering position (13,18) at step 51
+Robot 2 considering position (18,18) at step 46
+Robot 2 considering position (21,18) at step 43
+Robot 2 considering position (26,18) at step 38
+Robot 2 considering position (9,18) at step 55
+Robot 2 considering position (22,18) at step 42
+Robot 2 considering position (9,17) at step 56
+Robot 2 considering position (22,17) at step 43
+Robot 2 considering position (12,17) at step 53
+Robot 2 considering position (19,17) at step 46
+Robot 2 considering position (38,20) at step 30
+Robot 2 considering position (14,17) at step 51
+Robot 2 considering position (36,18) at step 30
+Robot 2 considering position (15,17) at step 50
+Robot 2 considering position (25,17) at step 40
+Robot 2 considering position (23,17) at step 42
+Robot 2 considering position (16,17) at step 49
+Robot 2 considering position (20,17) at step 45
+Robot 2 considering position (8,17) at step 57
+Robot 2 considering position (11,17) at step 54
+Robot 2 considering position (28,18) at step 38
+Robot 2 considering position (27,17) at step 38
+Robot 2 considering position (37,19) at step 30
+Robot 2 considering position (26,17) at step 39
+Robot 2 considering position (35,17) at step 30
+Robot 2 considering position (24,17) at step 41
+Robot 2 considering position (17,17) at step 48
+Robot 2 considering position (21,17) at step 44
+Robot 2 considering position (13,17) at step 52
+Robot 2 considering position (18,17) at step 47
+Robot 2 considering position (13,16) at step 53
+Robot 2 considering position (18,16) at step 48
+Robot 2 considering position (28,17) at step 39
+Robot 2 considering position (36,17) at step 31
+Robot 2 considering position (12,16) at step 54
+Robot 2 considering position (9,16) at step 57
+Robot 2 considering position (22,16) at step 44
+Robot 2 considering position (14,16) at step 52
+Robot 2 considering position (19,16) at step 47
+Robot 2 considering position (38,19) at step 31
+Robot 2 considering position (11,16) at step 55
+Robot 2 considering position (23,16) at step 43
+Robot 2 considering position (15,16) at step 51
+Robot 2 considering position (25,16) at step 41
+Robot 2 considering position (8,16) at step 58
+Robot 2 considering position (16,16) at step 50
+Robot 2 considering position (20,16) at step 46
+Robot 2 considering position (21,16) at step 45
+Robot 2 considering position (26,16) at step 40
+Robot 2 considering position (27,16) at step 39
+Robot 2 considering position (37,18) at step 31
+Robot 2 considering position (17,16) at step 49
+Robot 2 considering position (35,16) at step 31
+Robot 2 considering position (24,16) at step 42
+Robot 2 considering position (34,16) at step 32
+Robot 2 considering position (33,16) at step 33
+Robot 2 considering position (32,16) at step 34
+Robot 2 considering position (31,16) at step 35
+Robot 2 considering position (30,16) at step 36
+Robot 2 considering position (31,17) at step 36
+Robot 2 considering position (29,16) at step 37
+Robot 2 considering position (31,18) at step 37
+Robot 2 considering position (30,17) at step 37
+Robot 2 considering position (30,18) at step 38
+Robot 2 considering position (31,19) at step 38
+Robot 2 considering position (30,19) at step 39
+Robot 2 considering position (31,20) at step 39
+Robot 2 considering position (30,20) at step 40
+Robot 2 considering position (31,21) at step 40
+Robot 2 considering position (30,21) at step 41
+Robot 2 considering position (31,22) at step 41
+Robot 2 considering position (30,22) at step 42
+Robot 2 considering position (31,23) at step 42
+Robot 2 considering position (30,23) at step 43
+Robot 2 considering position (31,24) at step 43
+Robot 2 considering position (30,24) at step 44
+Robot 2 considering position (28,16) at step 38
+Robot 2 considering position (32,23) at step 43
+Robot 2 considering position (28,15) at step 39
+Robot 2 considering position (32,22) at step 42
+Robot 2 considering position (22,15) at step 45
+Robot 2 considering position (32,21) at step 41
+Robot 2 considering position (13,15) at step 54
+Robot 2 considering position (8,15) at step 59
+Robot 2 considering position (32,15) at step 35
+Robot 2 considering position (32,19) at step 39
+Robot 2 considering position (32,20) at step 40
+Robot 2 considering position (18,15) at step 49
+Robot 2 considering position (31,15) at step 36
+Robot 2 considering position (9,15) at step 58
+Robot 2 considering position (36,16) at step 32
+Robot 2 considering position (12,15) at step 55
+Robot 2 considering position (25,15) at step 42
+Robot 2 considering position (38,18) at step 32
+Robot 2 considering position (14,15) at step 53
+Robot 2 considering position (19,15) at step 48
+Robot 2 considering position (15,15) at step 52
+Robot 2 considering position (11,15) at step 56
+Robot 2 considering position (23,15) at step 44
+Robot 2 considering position (32,24) at step 44
+Robot 2 considering position (34,15) at step 33
+Robot 2 considering position (17,15) at step 50
+Robot 2 considering position (16,15) at step 51
+Robot 2 considering position (21,15) at step 46
+Robot 2 considering position (24,15) at step 43
+Robot 2 considering position (20,15) at step 47
+Robot 2 considering position (35,15) at step 32
+Robot 2 considering position (29,15) at step 38
+Robot 2 considering position (33,15) at step 34
+Robot 2 considering position (26,15) at step 41
+Robot 2 considering position (37,17) at step 32
+Robot 2 considering position (30,15) at step 37
+Robot 2 considering position (27,15) at step 40
+Robot 2 considering position (30,14) at step 38
+Robot 2 considering position (27,14) at step 41
+Robot 2 considering position (15,14) at step 53
+Robot 2 considering position (31,14) at step 37
+Robot 2 considering position (8,14) at step 60
+Robot 2 considering position (22,14) at step 46
+Robot 2 considering position (13,14) at step 55
+Robot 2 considering position (18,14) at step 50
+Robot 2 considering position (32,14) at step 36
+Robot 2 considering position (28,14) at step 40
+Robot 2 considering position (19,14) at step 49
+Robot 2 considering position (12,14) at step 56
+Robot 2 considering position (9,14) at step 59
+Robot 2 considering position (36,15) at step 33
+Robot 2 considering position (14,14) at step 54
+Robot 2 considering position (25,14) at step 43
+Robot 2 considering position (38,17) at step 33
+Robot 2 considering position (29,14) at step 39
+Robot 2 considering position (21,14) at step 47
+Robot 2 considering position (37,16) at step 33
+Robot 2 considering position (11,14) at step 57
+Robot 2 considering position (23,14) at step 45
+Robot 2 considering position (16,14) at step 52
+Robot 2 considering position (34,14) at step 34
+Robot 2 considering position (17,14) at step 51
+Robot 2 considering position (26,14) at step 42
+Robot 2 considering position (35,14) at step 33
+Robot 2 considering position (24,14) at step 44
+Robot 2 considering position (20,14) at step 48
+Robot 2 considering position (33,14) at step 35
+Robot 2 considering position (20,13) at step 49
+Robot 2 considering position (33,13) at step 36
+Robot 2 considering position (14,13) at step 55
+Robot 2 considering position (13,13) at step 56
+Robot 2 considering position (15,13) at step 54
+Robot 2 considering position (30,13) at step 39
+Robot 2 considering position (27,13) at step 42
+Robot 2 considering position (22,13) at step 47
+Robot 2 considering position (31,13) at step 38
+Robot 2 considering position (8,13) at step 61
+Robot 2 considering position (36,14) at step 34
+Robot 2 considering position (28,13) at step 41
+Robot 2 considering position (18,13) at step 51
+Robot 2 considering position (32,13) at step 37
+Robot 2 considering position (9,13) at step 60
+Robot 2 considering position (19,13) at step 50
+Robot 2 considering position (12,13) at step 57
+Robot 2 considering position (24,13) at step 45
+Robot 2 considering position (23,13) at step 46
+Robot 2 considering position (29,13) at step 40
+Robot 2 considering position (25,13) at step 44
+Robot 2 considering position (38,16) at step 34
+Robot 2 considering position (11,13) at step 58
+Robot 2 considering position (21,13) at step 48
+Robot 2 considering position (37,15) at step 34
+Robot 2 considering position (35,13) at step 34
+Robot 2 considering position (17,13) at step 52
+Robot 2 considering position (16,13) at step 53
+Robot 2 considering position (34,13) at step 35
+Robot 2 considering position (26,13) at step 43
+Robot 2 considering position (7,13) at step 62
+Robot 2 considering position (6,13) at step 63
+Robot 2 considering position (5,13) at step 64
+Robot 2 considering position (6,14) at step 64
+Robot 2 considering position (4,13) at step 65
+Robot 2 considering position (5,14) at step 65
+Robot 2 considering position (3,13) at step 66
+Robot 2 considering position (4,14) at step 66
+Robot 2 considering position (3,14) at step 67
+Robot 2 considering position (4,15) at step 67
+Robot 2 considering position (3,15) at step 68
+Robot 2 considering position (4,16) at step 68
+Robot 2 considering position (3,16) at step 69
+Robot 2 considering position (4,17) at step 69
+Robot 2 considering position (3,17) at step 70
+Robot 2 considering position (4,18) at step 70
+Robot 2 considering position (3,18) at step 71
+Robot 2 considering position (4,19) at step 71
+Robot 2 considering position (3,19) at step 72
+Robot 2 considering position (4,20) at step 72
+Robot 2 considering position (3,20) at step 73
+Robot 2 considering position (4,21) at step 73
+Robot 2 considering position (3,21) at step 74
+Robot 2 considering position (4,22) at step 74
+Robot 2 considering position (3,22) at step 75
+Robot 2 considering position (4,23) at step 75
+Robot 2 considering position (3,23) at step 76
+Robot 2 considering position (4,24) at step 76
+Robot 2 considering position (3,24) at step 77
+Robot 2 considering position (4,25) at step 77
+Robot 2 considering position (3,25) at step 78
+Robot 2 considering position (4,26) at step 78
+Robot 2 considering position (3,26) at step 79
+Robot 2 considering position (4,27) at step 79
+Robot 2 considering position (3,27) at step 80
+Robot 2 considering position (4,28) at step 80
+Robot 2 considering position (3,28) at step 81
+Robot 2 considering position (4,29) at step 81
+***Conflict case 1 in position (4,29) at step 81
+Robot 2 considering position (3,29) at step 82
+Robot 2 considering position (3,30) at step 83
+Robot 2 considering position (3,31) at step 84
+Robot 2 considering position (3,32) at step 85
+Robot 2 considering position (3,33) at step 86
+Robot 2 considering position (3,34) at step 87
+Robot 2 considering position (3,35) at step 88
+Robot 2 considering position (3,36) at step 89
+Robot 2 considering position (3,37) at step 90
+Robot 2 considering position (3,38) at step 91
+
+Robot 2 considering position (3,38) at step 91
+Robot 2 considering position (4,38) at step 92
+Robot 2 considering position (3,39) at step 92
+Robot 2 considering position (4,39) at step 93
+Robot 2 considering position (3,40) at step 93
+Robot 2 considering position (4,40) at step 94
+Robot 2 considering position (3,41) at step 94
+Robot 2 considering position (4,41) at step 95
+Robot 2 considering position (3,42) at step 95
+Robot 2 considering position (4,42) at step 96
+Robot 2 considering position (3,43) at step 96
+Robot 2 considering position (4,43) at step 97
+Robot 2 considering position (3,44) at step 97
+Robot 2 considering position (4,44) at step 98
+Robot 2 considering position (3,45) at step 98
+Robot 2 considering position (4,45) at step 99
+Robot 2 considering position (3,46) at step 99
+Robot 2 considering position (4,46) at step 100
+Robot 2 considering position (4,37) at step 93
+Robot 2 considering position (2,38) at step 92
+Robot 2 considering position (2,42) at step 96
+Robot 2 considering position (2,43) at step 97
+Robot 2 considering position (2,39) at step 93
+Robot 2 considering position (2,44) at step 98
+Robot 2 considering position (2,45) at step 99
+Robot 2 considering position (3,37) at step 92
+Robot 2 considering position (2,40) at step 94
+Robot 2 considering position (2,41) at step 95
+Robot 2 considering position (1,40) at step 95
+Robot 2 considering position (1,41) at step 96
+Robot 2 considering position (1,38) at step 93
+Robot 2 considering position (2,46) at step 100
+Robot 2 considering position (1,39) at step 94
+Robot 2 considering position (4,36) at step 94
+Robot 2 considering position (3,47) at step 100
+Robot 2 considering position (4,47) at step 101
+Robot 2 considering position (1,43) at step 98
+Robot 2 considering position (2,37) at step 93
+Robot 2 considering position (1,42) at step 97
+Robot 2 considering position (3,36) at step 93
+Robot 2 considering position (1,44) at step 99
+Robot 2 considering position (1,45) at step 100
+Robot 2 considering position (2,47) at step 101
+Robot 2 considering position (1,37) at step 94
+Robot 2 considering position (3,48) at step 101
+Robot 2 considering position (1,46) at step 101
+Robot 2 considering position (4,48) at step 102
+Robot 2 considering position (3,35) at step 94
+Robot 2 considering position (2,36) at step 94
+Robot 2 considering position (4,35) at step 95
+Robot 2 considering position (2,35) at step 95
+Robot 2 considering position (4,34) at step 96
+Robot 2 considering position (3,49) at step 102
+Robot 2 considering position (2,48) at step 102
+Robot 2 considering position (1,36) at step 95
+Robot 2 considering position (3,34) at step 95
+Robot 2 considering position (1,47) at step 102
+Robot 2 considering position (4,49) at step 103
+Robot 2 considering position (1,35) at step 96
+Robot 2 considering position (4,50) at step 104
+Robot 2 considering position (3,50) at step 103
+Robot 2 considering position (2,49) at step 103
+Robot 2 considering position (2,34) at step 96
+Robot 2 considering position (4,33) at step 97
+Robot 2 considering position (3,33) at step 96
+Robot 2 considering position (1,48) at step 103
+Robot 2 considering position (3,32) at step 97
+Robot 2 considering position (2,33) at step 97
+Robot 2 considering position (1,49) at step 104
+Robot 2 considering position (1,34) at step 97
+Robot 2 considering position (2,50) at step 104
+Robot 2 considering position (4,32) at step 98
+Robot 2 considering position (1,33) at step 98
+Robot 2 considering position (4,31) at step 99
+Robot 2 considering position (1,50) at step 105
+Robot 2 considering position (3,31) at step 98
+Robot 2 considering position (2,32) at step 98
+Robot 2 considering position (3,30) at step 99
+Robot 2 considering position (2,31) at step 99
+Robot 2 considering position (4,30) at step 100
+Robot 2 considering position (1,32) at step 99
+Robot 2 considering position (4,29) at step 101
+Robot 2 considering position (2,30) at step 100
+Robot 2 considering position (3,29) at step 100
+Robot 2 considering position (1,31) at step 100
+Robot 2 considering position (3,28) at step 101
+Robot 2 considering position (1,30) at step 101
+Robot 2 considering position (4,28) at step 102
+Robot 2 considering position (2,29) at step 101
+Robot 2 considering position (4,27) at step 103
+Robot 2 considering position (2,28) at step 102
+Robot 2 considering position (3,27) at step 102
+Robot 2 considering position (1,29) at step 102
+Robot 2 considering position (3,26) at step 103
+Robot 2 considering position (1,28) at step 103
+Robot 2 considering position (4,26) at step 104
+Robot 2 considering position (2,27) at step 103
+Robot 2 considering position (4,25) at step 105
+Robot 2 considering position (2,26) at step 104
+Robot 2 considering position (3,25) at step 104
+Robot 2 considering position (1,27) at step 104
+Robot 2 considering position (3,24) at step 105
+Robot 2 considering position (1,26) at step 105
+Robot 2 considering position (4,24) at step 106
+Robot 2 considering position (2,25) at step 105
+Robot 2 considering position (4,23) at step 107
+Robot 2 considering position (2,24) at step 106
+Robot 2 considering position (3,23) at step 106
+Robot 2 considering position (1,25) at step 106
+Robot 2 considering position (3,22) at step 107
+Robot 2 considering position (1,24) at step 107
+Robot 2 considering position (4,22) at step 108
+Robot 2 considering position (2,23) at step 107
+Robot 2 considering position (4,21) at step 109
+Robot 2 considering position (2,22) at step 108
+Robot 2 considering position (3,21) at step 108
+Robot 2 considering position (1,23) at step 108
+Robot 2 considering position (3,20) at step 109
+Robot 2 considering position (1,22) at step 109
+Robot 2 considering position (4,20) at step 110
+Robot 2 considering position (2,21) at step 109
+Robot 2 considering position (4,19) at step 111
+Robot 2 considering position (2,20) at step 110
+Robot 2 considering position (3,19) at step 110
+Robot 2 considering position (1,21) at step 110
+Robot 2 considering position (3,18) at step 111
+Robot 2 considering position (1,20) at step 111
+Robot 2 considering position (4,18) at step 112
+Robot 2 considering position (2,19) at step 111
+Robot 2 considering position (4,17) at step 113
+Robot 2 considering position (2,18) at step 112
+Robot 2 considering position (3,17) at step 112
+Robot 2 considering position (1,19) at step 112
+Robot 2 considering position (3,16) at step 113
+Robot 2 considering position (1,18) at step 113
+Robot 2 considering position (4,16) at step 114
+Robot 2 considering position (2,17) at step 113
+Robot 2 considering position (4,15) at step 115
+Robot 2 considering position (2,16) at step 114
+Robot 2 considering position (3,15) at step 114
+Robot 2 considering position (1,17) at step 114
+Robot 2 considering position (3,14) at step 115
+Robot 2 considering position (1,16) at step 115
+Robot 2 considering position (4,14) at step 116
+Robot 2 considering position (2,15) at step 115
+Robot 2 considering position (5,14) at step 117
+Robot 2 considering position (6,14) at step 118
+Robot 2 considering position (5,13) at step 118
+Robot 2 considering position (6,13) at step 119
+Robot 2 considering position (3,13) at step 116
+Robot 2 considering position (2,14) at step 116
+Robot 2 considering position (4,13) at step 117
+Robot 2 considering position (1,15) at step 116
+Robot 2 considering position (7,13) at step 120
+Robot 2 considering position (8,13) at step 121
+Robot 2 considering position (9,13) at step 122
+Robot 2 considering position (8,14) at step 122
+Robot 2 considering position (9,14) at step 123
+Robot 2 considering position (8,15) at step 123
+Robot 2 considering position (9,15) at step 124
+Robot 2 considering position (8,16) at step 124
+Robot 2 considering position (9,16) at step 125
+Robot 2 considering position (8,17) at step 125
+Robot 2 considering position (9,17) at step 126
+Robot 2 considering position (8,18) at step 126
+Robot 2 considering position (9,18) at step 127
+Robot 2 considering position (8,19) at step 127
+Robot 2 considering position (9,19) at step 128
+Robot 2 considering position (8,20) at step 128
+Robot 2 considering position (9,20) at step 129
+Robot 2 considering position (8,21) at step 129
+Robot 2 considering position (9,21) at step 130
+Robot 2 considering position (8,22) at step 130
+Robot 2 considering position (9,22) at step 131
+Robot 2 considering position (8,23) at step 131
+Robot 2 considering position (10,22) at step 132
+Robot 2 considering position (9,23) at step 132
+Robot 2 considering position (10,23) at step 133
+Robot 2 considering position (9,24) at step 133
+Robot 2 considering position (8,24) at step 132
+Robot 2 considering position (9,25) at step 134
+Robot 2 considering position (8,25) at step 133
+Robot 2 considering position (9,26) at step 135
+Robot 2 considering position (8,26) at step 134
+Robot 2 considering position (9,27) at step 136
+Robot 2 considering position (8,27) at step 135
+Robot 2 considering position (10,27) at step 137
+Robot 2 considering position (9,28) at step 137
+Robot 2 considering position (8,28) at step 136
+Robot 2 considering position (11,27) at step 138
+Robot 2 considering position (10,28) at step 138
+Robot 2 considering position (9,29) at step 138
+Robot 2 considering position (8,29) at step 137
+Robot 2 considering position (12,27) at step 139
+Robot 2 considering position (8,30) at step 138
+Robot 2 considering position (11,28) at step 139
+Robot 2 considering position (10,29) at step 139
+Robot 2 considering position (11,29) at step 140
+Robot 2 considering position (10,30) at step 140
+Robot 2 considering position (11,30) at step 141
+Robot 2 considering position (10,31) at step 141
+Robot 2 considering position (9,30) at step 139
+Robot 2 considering position (13,27) at step 140
+Robot 2 considering position (9,31) at step 140
+Robot 2 considering position (12,28) at step 140
+Robot 2 considering position (13,28) at step 141
+Robot 2 considering position (8,31) at step 139
+Robot 2 considering position (13,29) at step 142
+Robot 2 considering position (12,29) at step 141
+Robot 2 considering position (13,30) at step 143
+Robot 2 considering position (12,30) at step 142
+Robot 2 considering position (13,31) at step 144
+Robot 2 considering position (12,31) at step 143
+Robot 2 considering position (13,32) at step 145
+Robot 2 considering position (12,32) at step 144
+Robot 2 considering position (11,22) at step 133
+Robot 2 considering position (12,33) at step 145
+Robot 2 considering position (11,23) at step 134
+Robot 2 considering position (12,34) at step 146
+Robot 2 considering position (11,24) at step 135
+Robot 2 considering position (12,35) at step 147
+Robot 2 considering position (12,24) at step 136
+Robot 2 considering position (11,25) at step 136
+Robot 2 considering position (13,35) at step 148
+Robot 2 considering position (13,24) at step 137
+Robot 2 considering position (12,25) at step 137
+Robot 2 considering position (11,26) at step 137
+Robot 2 considering position (13,25) at step 138
+Robot 2 considering position (12,26) at step 138
+Robot 2 considering position (13,26) at step 139
+Robot 2 considering position (11,31) at step 142
+Robot 2 considering position (13,33) at step 146
+Robot 2 considering position (11,32) at step 143
+Robot 2 considering position (12,22) at step 134
+Robot 2 considering position (11,33) at step 144
+Robot 2 considering position (10,24) at step 134
+Robot 2 considering position (11,34) at step 145
+Robot 2 considering position (13,22) at step 135
+Robot 2 considering position (11,35) at step 146
+Robot 2 considering position (10,25) at step 135
+Robot 2 considering position (11,36) at step 147
+Robot 2 considering position (12,23) at step 135
+Robot 2 considering position (13,34) at step 147
+Robot 2 considering position (13,23) at step 136
+Robot 2 considering position (11,37) at step 148
+Robot 2 considering position (10,26) at step 136
+Robot 2 considering position (11,38) at step 149
+Robot 2 considering position (11,39) at step 150
+Robot 2 considering position (12,39) at step 151
+Robot 2 considering position (11,40) at step 151
+Robot 2 considering position (13,39) at step 152
+Robot 2 considering position (12,40) at step 152
+Robot 2 considering position (13,40) at step 153
+Robot 2 considering position (12,41) at step 153
+Robot 2 considering position (13,41) at step 154
+Robot 2 considering position (12,42) at step 154
+Robot 2 considering position (13,42) at step 155
+Robot 2 considering position (12,43) at step 155
+Robot 2 considering position (13,43) at step 156
+Robot 2 considering position (12,44) at step 156
+Robot 2 considering position (13,44) at step 157
+Robot 2 considering position (12,45) at step 157
+Robot 2 considering position (13,45) at step 158
+
+Robot 2 considering position (13,45) at step 158
+Robot 2 considering position (14,45) at step 159
+Robot 2 considering position (13,44) at step 159
+Robot 2 considering position (15,45) at step 160
+Robot 2 considering position (13,43) at step 160
+Robot 2 considering position (15,44) at step 161
+Robot 2 considering position (14,43) at step 161
+Robot 2 considering position (13,42) at step 161
+Robot 2 considering position (14,42) at step 162
+Robot 2 considering position (13,41) at step 162
+Robot 2 considering position (14,44) at step 160
+Robot 2 considering position (13,40) at step 163
+Robot 2 considering position (15,43) at step 162
+Robot 2 considering position (13,39) at step 164
+Robot 2 considering position (15,42) at step 163
+Robot 2 considering position (14,39) at step 165
+Robot 2 considering position (15,41) at step 164
+Robot 2 considering position (15,39) at step 166
+Robot 2 considering position (14,38) at step 166
+Robot 2 considering position (15,40) at step 165
+Robot 2 considering position (15,38) at step 167
+Robot 2 considering position (14,37) at step 167
+Robot 2 considering position (15,37) at step 168
+Robot 2 considering position (14,36) at step 168
+Robot 2 considering position (15,36) at step 169
+Robot 2 considering position (14,35) at step 169
+Robot 2 considering position (14,41) at step 163
+Robot 2 considering position (14,40) at step 164
+Robot 2 considering position (14,34) at step 170
+Robot 2 considering position (14,33) at step 171
+Robot 2 considering position (14,32) at step 172
+Robot 2 considering position (15,32) at step 173
+Robot 2 considering position (14,31) at step 173
+Robot 2 considering position (15,31) at step 174
+Robot 2 considering position (14,30) at step 174
+Robot 2 considering position (15,30) at step 175
+Robot 2 considering position (14,29) at step 175
+Robot 2 considering position (15,29) at step 176
+Robot 2 considering position (14,28) at step 176
+Robot 2 considering position (15,28) at step 177
+Robot 2 considering position (14,27) at step 177
+Robot 2 considering position (15,27) at step 178
+Robot 2 considering position (14,26) at step 178
+Robot 2 considering position (15,26) at step 179
+Robot 2 considering position (14,25) at step 179
+Robot 2 considering position (15,25) at step 180
+Robot 2 considering position (14,24) at step 180
+Robot 2 considering position (15,24) at step 181
+Robot 2 considering position (14,23) at step 181
+Robot 2 considering position (15,23) at step 182
+Robot 2 considering position (14,22) at step 182
+Robot 2 considering position (15,22) at step 183
+Robot 2 considering position (14,21) at step 183
+Robot 2 considering position (15,21) at step 184
+Robot 2 considering position (14,20) at step 184
+Robot 2 considering position (15,20) at step 185
+Robot 2 considering position (14,19) at step 185
+Robot 2 considering position (15,19) at step 186
+Robot 2 considering position (14,18) at step 186
+Robot 2 considering position (15,18) at step 187
+Robot 2 considering position (14,17) at step 187
+Robot 2 considering position (15,17) at step 188
+Robot 2 considering position (14,16) at step 188
+Robot 2 considering position (15,16) at step 189
+Robot 2 considering position (14,15) at step 189
+Robot 2 considering position (15,15) at step 190
+Robot 2 considering position (14,14) at step 190
+Robot 2 considering position (15,14) at step 191
+Robot 2 considering position (14,13) at step 191
+Robot 2 considering position (15,13) at step 192
+Robot 2 considering position (14,12) at step 192
+Robot 2 considering position (15,12) at step 193
+Robot 2 considering position (14,11) at step 193
+Robot 2 considering position (15,11) at step 194
+Robot 2 considering position (14,10) at step 194
+Robot 2 considering position (15,10) at step 195
+Robot 2 considering position (14,9) at step 195
+Robot 2 considering position (15,9) at step 196
+Robot 2 considering position (14,8) at step 196
+Robot 2 considering position (15,8) at step 197
+Robot 2 considering position (14,7) at step 197
+Robot 2 considering position (15,7) at step 198
+Robot 2 considering position (14,6) at step 198
+Robot 2 considering position (15,6) at step 199
+
+Robot 2 considering position (15,6) at step 199
+Robot 2 considering position (16,6) at step 200
+Robot 2 considering position (15,7) at step 200
+Robot 2 considering position (17,6) at step 201
+Robot 2 considering position (16,7) at step 201
+Robot 2 considering position (15,8) at step 201
+Robot 2 considering position (16,8) at step 202
+Robot 2 considering position (15,9) at step 202
+Robot 2 considering position (17,8) at step 203
+Robot 2 considering position (16,9) at step 203
+Robot 2 considering position (15,10) at step 203
+Robot 2 considering position (16,10) at step 204
+Robot 2 considering position (15,11) at step 204
+Robot 2 considering position (18,8) at step 204
+Robot 2 considering position (15,12) at step 205
+Robot 2 considering position (18,9) at step 205
+Robot 2 considering position (16,12) at step 206
+Robot 2 considering position (15,13) at step 206
+Robot 2 considering position (16,13) at step 207
+Robot 2 considering position (19,9) at step 206
+Robot 2 considering position (16,14) at step 208
+Robot 2 considering position (18,10) at step 206
+Robot 2 considering position (16,15) at step 209
+Robot 2 considering position (18,11) at step 207
+Robot 2 considering position (16,16) at step 210
+Robot 2 considering position (18,12) at step 208
+Robot 2 considering position (16,17) at step 211
+Robot 2 considering position (17,12) at step 207
+Robot 2 considering position (18,13) at step 209
+Robot 2 considering position (17,17) at step 212
+Robot 2 considering position (16,18) at step 212
+Robot 2 considering position (19,13) at step 210
+Robot 2 considering position (18,14) at step 210
+Robot 2 considering position (19,14) at step 211
+Robot 2 considering position (18,15) at step 211
+Robot 2 considering position (18,17) at step 213
+Robot 2 considering position (18,16) at step 212
+Robot 2 considering position (18,18) at step 214
+Robot 2 considering position (19,16) at step 213
+Robot 2 considering position (17,18) at step 213
+Robot 2 considering position (16,19) at step 213
+Robot 2 considering position (17,19) at step 214
+Robot 2 considering position (16,20) at step 214
+Robot 2 considering position (17,20) at step 215
+Robot 2 considering position (20,13) at step 211
+Robot 2 considering position (17,21) at step 216
+Robot 2 considering position (20,14) at step 212
+Robot 2 considering position (17,22) at step 217
+Robot 2 considering position (20,15) at step 213
+Robot 2 considering position (19,15) at step 212
+Robot 2 considering position (21,15) at step 214
+Robot 2 considering position (18,22) at step 218
+Robot 2 considering position (21,16) at step 215
+Robot 2 considering position (19,17) at step 214
+Robot 2 considering position (21,17) at step 216
+Robot 2 considering position (20,17) at step 215
+Robot 2 considering position (19,18) at step 215
+Robot 2 considering position (20,18) at step 216
+Robot 2 considering position (19,19) at step 216
+Robot 2 considering position (20,19) at step 217
+Robot 2 considering position (19,20) at step 217
+Robot 2 considering position (20,20) at step 218
+Robot 2 considering position (19,21) at step 218
+Robot 2 considering position (20,21) at step 219
+Robot 2 considering position (21,20) at step 219
+Robot 2 considering position (21,21) at step 220
+Robot 2 considering position (22,20) at step 220
+Robot 2 considering position (22,21) at step 221
+Robot 2 considering position (15,14) at step 207
+Robot 2 considering position (23,21) at step 222
+Robot 2 considering position (15,15) at step 208
+Robot 2 considering position (24,21) at step 223
+Robot 2 considering position (15,16) at step 209
+Robot 2 considering position (18,19) at step 215
+Robot 2 considering position (20,16) at step 214
+Robot 2 considering position (24,22) at step 224
+Robot 2 considering position (25,21) at step 224
+Robot 2 considering position (16,21) at step 215
+Robot 2 considering position (18,20) at step 216
+Robot 2 considering position (16,22) at step 216
+Robot 2 considering position (26,21) at step 225
+Robot 2 considering position (21,13) at step 212
+Robot 2 considering position (17,13) at step 208
+Robot 2 considering position (18,21) at step 217
+Robot 2 considering position (21,14) at step 213
+Robot 2 considering position (26,22) at step 226
+Robot 2 considering position (22,14) at step 214
+Robot 2 considering position (20,9) at step 207
+Robot 2 considering position (23,14) at step 215
+Robot 2 considering position (22,15) at step 215
+Robot 2 considering position (17,7) at step 202
+Robot 2 considering position (17,9) at step 204
+Robot 2 considering position (18,7) at step 203
+Robot 2 considering position (20,10) at step 208
+Robot 2 considering position (19,7) at step 204
+Robot 2 considering position (20,11) at step 209
+Robot 2 considering position (20,7) at step 205
+Robot 2 considering position (20,12) at step 210
+Robot 2 considering position (24,14) at step 216
+Robot 2 considering position (21,12) at step 211
+Robot 2 considering position (27,22) at step 227
+Robot 2 considering position (22,12) at step 212
+Robot 2 considering position (21,7) at step 206
+Robot 2 considering position (23,12) at step 213
+Robot 2 considering position (20,8) at step 206
+Robot 2 considering position (19,10) at step 207
+Robot 2 considering position (23,13) at step 214
+Robot 2 considering position (21,8) at step 207
+Robot 2 considering position (24,13) at step 215
+Robot 2 considering position (22,8) at step 208
+Robot 2 considering position (25,13) at step 216
+Robot 2 considering position (23,8) at step 209
+Robot 2 considering position (22,7) at step 207
+Robot 2 considering position (17,14) at step 209
+Robot 2 considering position (22,16) at step 216
+Robot 2 considering position (23,7) at step 208
+Robot 2 considering position (23,16) at step 217
+Robot 2 considering position (22,17) at step 217
+Robot 2 considering position (23,17) at step 218
+Robot 2 considering position (22,18) at step 218
+Robot 2 considering position (23,18) at step 219
+Robot 2 considering position (22,19) at step 219
+Robot 2 considering position (23,19) at step 220
+Robot 2 considering position (24,18) at step 220
+Robot 2 considering position (24,19) at step 221
+Robot 2 considering position (25,18) at step 221
+Robot 2 considering position (24,20) at step 222
+Robot 2 considering position (24,17) at step 219
+Robot 2 considering position (25,20) at step 223
+Robot 2 considering position (25,17) at step 220
+Robot 2 considering position (26,20) at step 224
+Robot 2 considering position (25,19) at step 222
+Robot 2 considering position (26,18) at step 222
+Robot 2 considering position (26,19) at step 223
+Robot 2 considering position (27,18) at step 223
+Robot 2 considering position (27,19) at step 224
+Robot 2 considering position (24,16) at step 218
+Robot 2 considering position (28,18) at step 224
+Robot 2 considering position (25,16) at step 219
+Robot 2 considering position (26,13) at step 217
+Robot 2 considering position (27,20) at step 225
+Robot 2 considering position (26,17) at step 221
+Robot 2 considering position (26,14) at step 218
+Robot 2 considering position (27,17) at step 222
+Robot 2 considering position (26,15) at step 219
+Robot 2 considering position (27,13) at step 218
+Robot 2 considering position (27,15) at step 220
+Robot 2 considering position (27,14) at step 219
+Robot 2 considering position (27,16) at step 221
+Robot 2 considering position (28,14) at step 220
+Robot 2 considering position (28,16) at step 222
+Robot 2 considering position (29,14) at step 221
+Robot 2 considering position (29,16) at step 223
+Robot 2 considering position (28,15) at step 221
+Robot 2 considering position (30,16) at step 224
+Robot 2 considering position (29,15) at step 222
+Robot 2 considering position (24,12) at step 214
+Robot 2 considering position (30,15) at step 223
+Robot 2 considering position (31,16) at step 225
+Robot 2 considering position (31,15) at step 224
+Robot 2 considering position (31,17) at step 226
+Robot 2 considering position (23,9) at step 210
+Robot 2 considering position (31,18) at step 227
+Robot 2 considering position (24,9) at step 211
+Robot 2 considering position (23,10) at step 211
+Robot 2 considering position (31,19) at step 228
+Robot 2 considering position (25,9) at step 212
+Robot 2 considering position (24,10) at step 212
+Robot 2 considering position (23,11) at step 212
+Robot 2 considering position (32,19) at step 229
+Robot 2 considering position (31,20) at step 229
+Robot 2 considering position (26,9) at step 213
+Robot 2 considering position (25,10) at step 213
+Robot 2 considering position (24,11) at step 213
+Robot 2 considering position (32,20) at step 230
+Robot 2 considering position (31,21) at step 230
+Robot 2 considering position (26,10) at step 214
+Robot 2 considering position (25,11) at step 214
+Robot 2 considering position (32,21) at step 231
+Robot 2 considering position (31,22) at step 231
+Robot 2 considering position (27,10) at step 215
+Robot 2 considering position (26,11) at step 215
+Robot 2 considering position (32,22) at step 232
+
+
+**Now Returning Home**
+Robot 1 considering position (32,22) at step 231
+Robot 1 considering position (32,21) at step 232
+Robot 1 considering position (32,20) at step 233
+Robot 1 considering position (32,19) at step 234
+Robot 1 considering position (31,22) at step 232
+Robot 1 considering position (31,19) at step 235
+Robot 1 considering position (32,23) at step 232
+Robot 1 considering position (31,18) at step 236
+Robot 1 considering position (31,20) at step 234
+Robot 1 considering position (31,17) at step 237
+Robot 1 considering position (31,21) at step 233
+Robot 1 considering position (31,16) at step 238
+Robot 1 considering position (32,16) at step 239
+Robot 1 considering position (31,15) at step 239
+Robot 1 considering position (33,16) at step 240
+Robot 1 considering position (32,15) at step 240
+Robot 1 considering position (31,14) at step 240
+Robot 1 considering position (32,14) at step 241
+Robot 1 considering position (31,13) at step 241
+Robot 1 considering position (32,13) at step 242
+Robot 1 considering position (31,12) at step 242
+Robot 1 considering position (33,13) at step 243
+Robot 1 considering position (32,12) at step 243
+Robot 1 considering position (31,11) at step 243
+Robot 1 considering position (34,13) at step 244
+Robot 1 considering position (33,12) at step 244
+Robot 1 considering position (32,11) at step 244
+Robot 1 considering position (31,10) at step 244
+Robot 1 considering position (34,12) at step 245
+Robot 1 considering position (33,11) at step 245
+Robot 1 considering position (32,10) at step 245
+Robot 1 considering position (33,10) at step 246
+Robot 1 considering position (32,9) at step 246
+Robot 1 considering position (34,16) at step 241
+Robot 1 considering position (32,8) at step 247
+Robot 1 considering position (34,15) at step 242
+Robot 1 considering position (32,7) at step 248
+Robot 1 considering position (34,14) at step 243
+Robot 1 considering position (32,6) at step 249
+Robot 1 considering position (31,9) at step 245
+Robot 1 considering position (33,6) at step 250
+Robot 1 considering position (31,8) at step 246
+Robot 1 considering position (34,6) at step 251
+
+Robot 2 considering position (32,21) at step 231
+Robot 2 considering position (32,22) at step 232
+***Conflict case 2 in position (32,22) at step 232
+Robot 2 considering position (32,20) at step 232
+Robot 2 considering position (31,21) at step 232
+Robot 2 considering position (32,21) at step 233
+Robot 2 considering position (31,22) at step 233
+Robot 2 considering position (32,22) at step 234
+Robot 2 considering position (31,23) at step 234
+Robot 2 considering position (32,23) at step 235
+Robot 2 considering position (31,24) at step 235
+Robot 2 considering position (32,24) at step 236
+Robot 2 considering position (32,19) at step 233
+Robot 2 considering position (30,23) at step 235
+Robot 2 considering position (30,24) at step 236
+Robot 2 considering position (30,22) at step 234
+Robot 2 considering position (30,21) at step 233
+Robot 2 considering position (31,20) at step 233
+Robot 2 considering position (30,20) at step 234
+Robot 2 considering position (31,19) at step 234
+Robot 2 considering position (30,19) at step 235
+Robot 2 considering position (31,18) at step 235
+Robot 2 considering position (30,18) at step 236
+Robot 2 considering position (31,17) at step 236
+Robot 2 considering position (30,17) at step 237
+Robot 2 considering position (31,16) at step 237
+Robot 2 considering position (32,16) at step 238
+Robot 2 considering position (33,16) at step 239
+Robot 2 considering position (34,16) at step 240
+Robot 2 considering position (35,16) at step 241
+Robot 2 considering position (35,17) at step 242
+Robot 2 considering position (35,18) at step 243
+Robot 2 considering position (35,19) at step 244
+Robot 2 considering position (35,20) at step 245
+Robot 2 considering position (35,21) at step 246
+Robot 2 considering position (35,22) at step 247
+Robot 2 considering position (35,23) at step 248
+Robot 2 considering position (35,24) at step 249
+Robot 2 considering position (35,25) at step 250
+Robot 2 considering position (35,26) at step 251
+Robot 2 considering position (35,27) at step 252
+Robot 2 considering position (35,28) at step 253
+Robot 2 considering position (35,29) at step 254
+Robot 2 considering position (35,30) at step 255
+Robot 2 considering position (35,31) at step 256
+Robot 2 considering position (35,32) at step 257
+Robot 2 considering position (35,33) at step 258
+Robot 2 considering position (35,34) at step 259
+Robot 2 considering position (35,35) at step 260
+Robot 2 considering position (35,36) at step 261
+Robot 2 considering position (35,37) at step 262
+Robot 2 considering position (35,38) at step 263
+Robot 2 considering position (35,39) at step 264
+Robot 2 considering position (35,40) at step 265
+Robot 2 considering position (35,41) at step 266
+Robot 2 considering position (35,42) at step 267
+Robot 2 considering position (35,43) at step 268
+Robot 2 considering position (35,44) at step 269
+Robot 2 considering position (35,45) at step 270
+Robot 2 considering position (35,46) at step 271
+Robot 2 considering position (35,47) at step 272
+
+
+
+Final Path of Robot 1:
+Robot1 moves at (34,6) at step 0
+Robot1 moves at (33,6) at step 1
+Robot1 moves at (32,6) at step 2
+Robot1 moves at (31,6) at step 3
+Robot1 moves at (30,6) at step 4
+Robot1 moves at (29,6) at step 5
+Robot1 moves at (28,6) at step 6
+Robot1 moves at (27,6) at step 7
+Robot1 moves at (26,6) at step 8
+Robot1 moves at (26,5) at step 9
+Robot1 moves at (25,5) at step 10
+Robot1 moves at (24,5) at step 11
+Robot1 moves at (23,5) at step 12
+Robot1 moves at (22,5) at step 13
+Robot1 moves at (21,5) at step 14
+Robot1 moves at (20,5) at step 15
+Robot1 moves at (20,4) at step 16
+Robot1 moves at (20,3) at step 17
+Robot1 moves at (19,3) at step 18
+Robot1 moves at (18,3) at step 19
+Robot1 moves at (17,3) at step 20
+Robot1 moves at (16,3) at step 21
+Robot1 moves at (15,3) at step 22
+Robot1 moves at (14,3) at step 23
+Robot1 moves at (13,3) at step 24
+Robot1 moves at (12,3) at step 25
+Robot1 moves at (11,3) at step 26
+Robot1 moves at (11,2) at step 27
+Robot1 moves at (10,2) at step 28
+Robot1 moves at (9,2) at step 29
+Robot1 moves at (9,3) at step 30
+Robot1 moves at (9,4) at step 31
+Robot1 moves at (9,5) at step 32
+Robot1 moves at (9,6) at step 33
+Robot1 moves at (9,7) at step 34
+Robot1 moves at (9,8) at step 35
+Robot1 moves at (9,9) at step 36
+Robot1 moves at (9,10) at step 37
+Robot1 moves at (9,11) at step 38
+Robot1 moves at (8,11) at step 39
+Robot1 moves at (7,11) at step 40
+Robot1 moves at (7,12) at step 41
+Robot1 moves at (7,13) at step 42
+Robot1 moves at (6,13) at step 43
+Robot1 moves at (6,14) at step 44
+Robot1 moves at (5,14) at step 45
+Robot1 moves at (4,14) at step 46
+Robot1 moves at (4,15) at step 47
+Robot1 moves at (4,16) at step 48
+Robot1 moves at (4,17) at step 49
+Robot1 moves at (4,18) at step 50
+Robot1 moves at (4,19) at step 51
+Robot1 moves at (4,20) at step 52
+Robot1 moves at (4,21) at step 53
+Robot1 moves at (4,22) at step 54
+Robot1 moves at (4,23) at step 55
+Robot1 moves at (4,24) at step 56
+Robot1 moves at (4,25) at step 57
+Robot1 moves at (4,26) at step 58
+Robot1 moves at (4,27) at step 59
+Robot1 moves at (4,28) at step 60
+Robot1 moves at (4,29) at step 61
+Robot1 moves at (4,30) at step 62
+Robot1 moves at (4,31) at step 63
+Robot1 moves at (4,32) at step 64
+Robot1 moves at (4,33) at step 65
+Robot1 moves at (4,34) at step 66
+Robot1 moves at (4,35) at step 67
+Robot1 moves at (4,36) at step 68
+Robot1 moves at (4,37) at step 69
+Robot1 moves at (4,38) at step 70
+Robot1 moves at (3,38) at step 71
+Robot1 moves at (4,38) at step 72
+Robot1 moves at (4,37) at step 73
+Robot1 moves at (4,36) at step 74
+Robot1 moves at (4,35) at step 75
+Robot1 moves at (4,34) at step 76
+Robot1 moves at (4,33) at step 77
+Robot1 moves at (4,32) at step 78
+Robot1 moves at (4,31) at step 79
+Robot1 moves at (4,30) at step 80
+Robot1 moves at (4,29) at step 81
+Robot1 moves at (4,28) at step 82
+Robot1 moves at (4,27) at step 83
+Robot1 moves at (4,26) at step 84
+Robot1 moves at (4,25) at step 85
+Robot1 moves at (4,24) at step 86
+Robot1 moves at (4,23) at step 87
+Robot1 moves at (4,22) at step 88
+Robot1 moves at (4,21) at step 89
+Robot1 moves at (4,20) at step 90
+Robot1 moves at (4,19) at step 91
+Robot1 moves at (4,18) at step 92
+Robot1 moves at (4,17) at step 93
+Robot1 moves at (4,16) at step 94
+Robot1 moves at (4,15) at step 95
+Robot1 moves at (4,14) at step 96
+Robot1 moves at (5,14) at step 97
+Robot1 moves at (6,14) at step 98
+Robot1 moves at (6,13) at step 99
+Robot1 moves at (7,13) at step 100
+Robot1 moves at (8,13) at step 101
+Robot1 moves at (9,13) at step 102
+Robot1 moves at (9,14) at step 103
+Robot1 moves at (9,15) at step 104
+Robot1 moves at (9,16) at step 105
+Robot1 moves at (9,17) at step 106
+Robot1 moves at (9,18) at step 107
+Robot1 moves at (9,19) at step 108
+Robot1 moves at (9,20) at step 109
+Robot1 moves at (9,21) at step 110
+Robot1 moves at (9,22) at step 111
+Robot1 moves at (9,23) at step 112
+Robot1 moves at (9,24) at step 113
+Robot1 moves at (9,25) at step 114
+Robot1 moves at (9,26) at step 115
+Robot1 moves at (9,27) at step 116
+Robot1 moves at (10,27) at step 117
+Robot1 moves at (11,27) at step 118
+Robot1 moves at (11,28) at step 119
+Robot1 moves at (11,29) at step 120
+Robot1 moves at (11,30) at step 121
+Robot1 moves at (11,31) at step 122
+Robot1 moves at (11,32) at step 123
+Robot1 moves at (11,33) at step 124
+Robot1 moves at (11,34) at step 125
+Robot1 moves at (11,35) at step 126
+Robot1 moves at (11,36) at step 127
+Robot1 moves at (11,37) at step 128
+Robot1 moves at (11,38) at step 129
+Robot1 moves at (11,39) at step 130
+Robot1 moves at (12,39) at step 131
+Robot1 moves at (13,39) at step 132
+Robot1 moves at (13,40) at step 133
+Robot1 moves at (13,41) at step 134
+Robot1 moves at (13,42) at step 135
+Robot1 moves at (13,43) at step 136
+Robot1 moves at (13,44) at step 137
+Robot1 moves at (13,45) at step 138
+Robot1 moves at (13,44) at step 139
+Robot1 moves at (13,43) at step 140
+Robot1 moves at (13,42) at step 141
+Robot1 moves at (13,41) at step 142
+Robot1 moves at (13,40) at step 143
+Robot1 moves at (13,39) at step 144
+Robot1 moves at (14,39) at step 145
+Robot1 moves at (14,38) at step 146
+Robot1 moves at (14,37) at step 147
+Robot1 moves at (14,36) at step 148
+Robot1 moves at (14,35) at step 149
+Robot1 moves at (14,34) at step 150
+Robot1 moves at (14,33) at step 151
+Robot1 moves at (14,32) at step 152
+Robot1 moves at (15,32) at step 153
+Robot1 moves at (15,31) at step 154
+Robot1 moves at (15,30) at step 155
+Robot1 moves at (15,29) at step 156
+Robot1 moves at (15,28) at step 157
+Robot1 moves at (15,27) at step 158
+Robot1 moves at (15,26) at step 159
+Robot1 moves at (15,25) at step 160
+Robot1 moves at (15,24) at step 161
+Robot1 moves at (15,23) at step 162
+Robot1 moves at (15,22) at step 163
+Robot1 moves at (15,21) at step 164
+Robot1 moves at (15,20) at step 165
+Robot1 moves at (15,19) at step 166
+Robot1 moves at (15,18) at step 167
+Robot1 moves at (15,17) at step 168
+Robot1 moves at (15,16) at step 169
+Robot1 moves at (15,15) at step 170
+Robot1 moves at (15,14) at step 171
+Robot1 moves at (15,13) at step 172
+Robot1 moves at (15,12) at step 173
+Robot1 moves at (15,11) at step 174
+Robot1 moves at (15,10) at step 175
+Robot1 moves at (15,9) at step 176
+Robot1 moves at (15,8) at step 177
+Robot1 moves at (15,7) at step 178
+Robot1 moves at (15,6) at step 179
+Robot1 moves at (16,6) at step 180
+Robot1 moves at (16,7) at step 181
+Robot1 moves at (16,8) at step 182
+Robot1 moves at (17,8) at step 183
+Robot1 moves at (18,8) at step 184
+Robot1 moves at (18,9) at step 185
+Robot1 moves at (19,9) at step 186
+Robot1 moves at (20,9) at step 187
+Robot1 moves at (20,10) at step 188
+Robot1 moves at (20,11) at step 189
+Robot1 moves at (20,12) at step 190
+Robot1 moves at (21,12) at step 191
+Robot1 moves at (22,12) at step 192
+Robot1 moves at (23,12) at step 193
+Robot1 moves at (23,13) at step 194
+Robot1 moves at (24,13) at step 195
+Robot1 moves at (25,13) at step 196
+Robot1 moves at (26,13) at step 197
+Robot1 moves at (26,14) at step 198
+Robot1 moves at (26,15) at step 199
+Robot1 moves at (27,15) at step 200
+Robot1 moves at (27,16) at step 201
+Robot1 moves at (28,16) at step 202
+Robot1 moves at (29,16) at step 203
+Robot1 moves at (30,16) at step 204
+Robot1 moves at (31,16) at step 205
+Robot1 moves at (31,17) at step 206
+Robot1 moves at (31,18) at step 207
+Robot1 moves at (31,19) at step 208
+Robot1 moves at (32,19) at step 209
+Robot1 moves at (32,20) at step 210
+Robot1 moves at (32,21) at step 211
+Robot1 moves at (32,22) at step 212
+Robot1 stalls at (32,22) at step 213
+Robot1 stalls at (32,22) at step 214
+Robot1 stalls at (32,22) at step 215
+Robot1 stalls at (32,22) at step 216
+Robot1 stalls at (32,22) at step 217
+Robot1 stalls at (32,22) at step 218
+Robot1 stalls at (32,22) at step 219
+Robot1 stalls at (32,22) at step 220
+Robot1 stalls at (32,22) at step 221
+Robot1 stalls at (32,22) at step 222
+Robot1 stalls at (32,22) at step 223
+Robot1 stalls at (32,22) at step 224
+Robot1 stalls at (32,22) at step 225
+Robot1 stalls at (32,22) at step 226
+Robot1 stalls at (32,22) at step 227
+Robot1 stalls at (32,22) at step 228
+Robot1 stalls at (32,22) at step 229
+Robot1 stalls at (32,22) at step 230
+Robot1 stalls at (32,22) at step 231
+Robot1 moves at (32,21) at step 232
+Robot1 moves at (32,20) at step 233
+Robot1 moves at (32,19) at step 234
+Robot1 moves at (31,19) at step 235
+Robot1 moves at (31,18) at step 236
+Robot1 moves at (31,17) at step 237
+Robot1 moves at (31,16) at step 238
+Robot1 moves at (32,16) at step 239
+Robot1 moves at (32,15) at step 240
+Robot1 moves at (32,14) at step 241
+Robot1 moves at (32,13) at step 242
+Robot1 moves at (32,12) at step 243
+Robot1 moves at (32,11) at step 244
+Robot1 moves at (32,10) at step 245
+Robot1 moves at (32,9) at step 246
+Robot1 moves at (32,8) at step 247
+Robot1 moves at (32,7) at step 248
+Robot1 moves at (32,6) at step 249
+Robot1 moves at (33,6) at step 250
+Robot1 moves at (34,6) at step 251
+
+
+
+Final Path of Robot 2:
+Robot2 moves at (35,47) at step 0
+Robot2 moves at (34,47) at step 1
+Robot2 moves at (33,47) at step 2
+Robot2 moves at (33,46) at step 3
+Robot2 moves at (32,46) at step 4
+Robot2 moves at (31,46) at step 5
+Robot2 moves at (30,46) at step 6
+Robot2 moves at (29,46) at step 7
+Robot2 moves at (28,46) at step 8
+Robot2 moves at (28,45) at step 9
+Robot2 moves at (27,45) at step 10
+Robot2 moves at (26,45) at step 11
+Robot2 moves at (26,44) at step 12
+Robot2 moves at (26,43) at step 13
+Robot2 moves at (25,43) at step 14
+Robot2 moves at (24,43) at step 15
+Robot2 moves at (23,43) at step 16
+Robot2 moves at (22,43) at step 17
+Robot2 moves at (21,43) at step 18
+Robot2 moves at (20,43) at step 19
+Robot2 moves at (20,42) at step 20
+Robot2 moves at (19,42) at step 21
+Robot2 moves at (18,42) at step 22
+Robot2 moves at (17,42) at step 23
+Robot2 moves at (16,42) at step 24
+Robot2 moves at (15,42) at step 25
+Robot2 moves at (14,42) at step 26
+Robot2 moves at (13,42) at step 27
+Robot2 moves at (12,42) at step 28
+Robot2 moves at (11,42) at step 29
+Robot2 moves at (11,41) at step 30
+Robot2 moves at (11,40) at step 31
+Robot2 moves at (11,39) at step 32
+Robot2 moves at (11,38) at step 33
+Robot2 moves at (11,37) at step 34
+Robot2 moves at (11,36) at step 35
+Robot2 moves at (11,35) at step 36
+Robot2 moves at (11,34) at step 37
+Robot2 moves at (11,33) at step 38
+Robot2 moves at (11,32) at step 39
+Robot2 moves at (11,31) at step 40
+Robot2 moves at (10,31) at step 41
+Robot2 moves at (9,31) at step 42
+Robot2 moves at (8,31) at step 43
+Robot2 moves at (8,30) at step 44
+Robot2 moves at (8,29) at step 45
+Robot2 moves at (8,28) at step 46
+Robot2 moves at (8,27) at step 47
+Robot2 moves at (8,26) at step 48
+Robot2 moves at (8,25) at step 49
+Robot2 moves at (8,24) at step 50
+Robot2 moves at (8,23) at step 51
+Robot2 moves at (8,22) at step 52
+Robot2 moves at (8,21) at step 53
+Robot2 moves at (8,20) at step 54
+Robot2 moves at (8,19) at step 55
+Robot2 moves at (8,18) at step 56
+Robot2 moves at (8,17) at step 57
+Robot2 moves at (8,16) at step 58
+Robot2 moves at (8,15) at step 59
+Robot2 moves at (8,14) at step 60
+Robot2 moves at (8,13) at step 61
+Robot2 moves at (7,13) at step 62
+Robot2 moves at (6,13) at step 63
+Robot2 moves at (5,13) at step 64
+Robot2 moves at (4,13) at step 65
+Robot2 moves at (3,13) at step 66
+Robot2 moves at (3,14) at step 67
+Robot2 moves at (3,15) at step 68
+Robot2 moves at (3,16) at step 69
+Robot2 moves at (3,17) at step 70
+Robot2 moves at (3,18) at step 71
+Robot2 moves at (3,19) at step 72
+Robot2 moves at (3,20) at step 73
+Robot2 moves at (3,21) at step 74
+Robot2 moves at (3,22) at step 75
+Robot2 moves at (3,23) at step 76
+Robot2 moves at (3,24) at step 77
+Robot2 moves at (3,25) at step 78
+Robot2 moves at (3,26) at step 79
+Robot2 moves at (3,27) at step 80
+Robot2 moves at (3,28) at step 81
+Robot2 moves at (3,29) at step 82
+Robot2 moves at (3,30) at step 83
+Robot2 moves at (3,31) at step 84
+Robot2 moves at (3,32) at step 85
+Robot2 moves at (3,33) at step 86
+Robot2 moves at (3,34) at step 87
+Robot2 moves at (3,35) at step 88
+Robot2 moves at (3,36) at step 89
+Robot2 moves at (3,37) at step 90
+Robot2 moves at (3,38) at step 91
+Robot2 moves at (4,38) at step 92
+Robot2 moves at (4,37) at step 93
+Robot2 moves at (4,36) at step 94
+Robot2 moves at (4,35) at step 95
+Robot2 moves at (4,34) at step 96
+Robot2 moves at (4,33) at step 97
+Robot2 moves at (4,32) at step 98
+Robot2 moves at (4,31) at step 99
+Robot2 moves at (4,30) at step 100
+Robot2 moves at (4,29) at step 101
+Robot2 moves at (4,28) at step 102
+Robot2 moves at (4,27) at step 103
+Robot2 moves at (4,26) at step 104
+Robot2 moves at (4,25) at step 105
+Robot2 moves at (4,24) at step 106
+Robot2 moves at (4,23) at step 107
+Robot2 moves at (4,22) at step 108
+Robot2 moves at (4,21) at step 109
+Robot2 moves at (4,20) at step 110
+Robot2 moves at (4,19) at step 111
+Robot2 moves at (4,18) at step 112
+Robot2 moves at (4,17) at step 113
+Robot2 moves at (4,16) at step 114
+Robot2 moves at (4,15) at step 115
+Robot2 moves at (4,14) at step 116
+Robot2 moves at (5,14) at step 117
+Robot2 moves at (6,14) at step 118
+Robot2 moves at (6,13) at step 119
+Robot2 moves at (7,13) at step 120
+Robot2 moves at (8,13) at step 121
+Robot2 moves at (9,13) at step 122
+Robot2 moves at (9,14) at step 123
+Robot2 moves at (9,15) at step 124
+Robot2 moves at (9,16) at step 125
+Robot2 moves at (9,17) at step 126
+Robot2 moves at (9,18) at step 127
+Robot2 moves at (9,19) at step 128
+Robot2 moves at (9,20) at step 129
+Robot2 moves at (9,21) at step 130
+Robot2 moves at (9,22) at step 131
+Robot2 moves at (9,23) at step 132
+Robot2 moves at (9,24) at step 133
+Robot2 moves at (9,25) at step 134
+Robot2 moves at (9,26) at step 135
+Robot2 moves at (9,27) at step 136
+Robot2 moves at (10,27) at step 137
+Robot2 moves at (11,27) at step 138
+Robot2 moves at (11,28) at step 139
+Robot2 moves at (11,29) at step 140
+Robot2 moves at (11,30) at step 141
+Robot2 moves at (11,31) at step 142
+Robot2 moves at (11,32) at step 143
+Robot2 moves at (11,33) at step 144
+Robot2 moves at (11,34) at step 145
+Robot2 moves at (11,35) at step 146
+Robot2 moves at (11,36) at step 147
+Robot2 moves at (11,37) at step 148
+Robot2 moves at (11,38) at step 149
+Robot2 moves at (11,39) at step 150
+Robot2 moves at (12,39) at step 151
+Robot2 moves at (13,39) at step 152
+Robot2 moves at (13,40) at step 153
+Robot2 moves at (13,41) at step 154
+Robot2 moves at (13,42) at step 155
+Robot2 moves at (13,43) at step 156
+Robot2 moves at (13,44) at step 157
+Robot2 moves at (13,45) at step 158
+Robot2 moves at (13,44) at step 159
+Robot2 moves at (13,43) at step 160
+Robot2 moves at (13,42) at step 161
+Robot2 moves at (13,41) at step 162
+Robot2 moves at (13,40) at step 163
+Robot2 moves at (13,39) at step 164
+Robot2 moves at (14,39) at step 165
+Robot2 moves at (14,38) at step 166
+Robot2 moves at (14,37) at step 167
+Robot2 moves at (14,36) at step 168
+Robot2 moves at (14,35) at step 169
+Robot2 moves at (14,34) at step 170
+Robot2 moves at (14,33) at step 171
+Robot2 moves at (14,32) at step 172
+Robot2 moves at (15,32) at step 173
+Robot2 moves at (15,31) at step 174
+Robot2 moves at (15,30) at step 175
+Robot2 moves at (15,29) at step 176
+Robot2 moves at (15,28) at step 177
+Robot2 moves at (15,27) at step 178
+Robot2 moves at (15,26) at step 179
+Robot2 moves at (15,25) at step 180
+Robot2 moves at (15,24) at step 181
+Robot2 moves at (15,23) at step 182
+Robot2 moves at (15,22) at step 183
+Robot2 moves at (15,21) at step 184
+Robot2 moves at (15,20) at step 185
+Robot2 moves at (15,19) at step 186
+Robot2 moves at (15,18) at step 187
+Robot2 moves at (15,17) at step 188
+Robot2 moves at (15,16) at step 189
+Robot2 moves at (15,15) at step 190
+Robot2 moves at (15,14) at step 191
+Robot2 moves at (15,13) at step 192
+Robot2 moves at (15,12) at step 193
+Robot2 moves at (15,11) at step 194
+Robot2 moves at (15,10) at step 195
+Robot2 moves at (15,9) at step 196
+Robot2 moves at (15,8) at step 197
+Robot2 moves at (15,7) at step 198
+Robot2 moves at (15,6) at step 199
+Robot2 moves at (16,6) at step 200
+Robot2 moves at (16,7) at step 201
+Robot2 moves at (16,8) at step 202
+Robot2 moves at (17,8) at step 203
+Robot2 moves at (18,8) at step 204
+Robot2 moves at (18,9) at step 205
+Robot2 moves at (19,9) at step 206
+Robot2 moves at (20,9) at step 207
+Robot2 moves at (20,10) at step 208
+Robot2 moves at (20,11) at step 209
+Robot2 moves at (20,12) at step 210
+Robot2 moves at (21,12) at step 211
+Robot2 moves at (22,12) at step 212
+Robot2 moves at (23,12) at step 213
+Robot2 moves at (23,13) at step 214
+Robot2 moves at (24,13) at step 215
+Robot2 moves at (25,13) at step 216
+Robot2 moves at (26,13) at step 217
+Robot2 moves at (26,14) at step 218
+Robot2 moves at (26,15) at step 219
+Robot2 moves at (27,15) at step 220
+Robot2 moves at (27,16) at step 221
+Robot2 moves at (28,16) at step 222
+Robot2 moves at (29,16) at step 223
+Robot2 moves at (30,16) at step 224
+Robot2 moves at (31,16) at step 225
+Robot2 moves at (31,17) at step 226
+Robot2 moves at (31,18) at step 227
+Robot2 moves at (31,19) at step 228
+Robot2 moves at (32,19) at step 229
+Robot2 moves at (32,20) at step 230
+Robot2 moves at (32,21) at step 231
+Robot2 moves at (32,20) at step 232
+Robot2 moves at (32,19) at step 233
+Robot2 moves at (31,19) at step 234
+Robot2 moves at (31,18) at step 235
+Robot2 moves at (31,17) at step 236
+Robot2 moves at (31,16) at step 237
+Robot2 moves at (32,16) at step 238
+Robot2 moves at (33,16) at step 239
+Robot2 moves at (34,16) at step 240
+Robot2 moves at (35,16) at step 241
+Robot2 moves at (35,17) at step 242
+Robot2 moves at (35,18) at step 243
+Robot2 moves at (35,19) at step 244
+Robot2 moves at (35,20) at step 245
+Robot2 moves at (35,21) at step 246
+Robot2 moves at (35,22) at step 247
+Robot2 moves at (35,23) at step 248
+Robot2 moves at (35,24) at step 249
+Robot2 moves at (35,25) at step 250
+Robot2 moves at (35,26) at step 251
+Robot2 moves at (35,27) at step 252
+Robot2 moves at (35,28) at step 253
+Robot2 moves at (35,29) at step 254
+Robot2 moves at (35,30) at step 255
+Robot2 moves at (35,31) at step 256
+Robot2 moves at (35,32) at step 257
+Robot2 moves at (35,33) at step 258
+Robot2 moves at (35,34) at step 259
+Robot2 moves at (35,35) at step 260
+Robot2 moves at (35,36) at step 261
+Robot2 moves at (35,37) at step 262
+Robot2 moves at (35,38) at step 263
+Robot2 moves at (35,39) at step 264
+Robot2 moves at (35,40) at step 265
+Robot2 moves at (35,41) at step 266
+Robot2 moves at (35,42) at step 267
+Robot2 moves at (35,43) at step 268
+Robot2 moves at (35,44) at step 269
+Robot2 moves at (35,45) at step 270
+Robot2 moves at (35,46) at step 271
+Robot2 moves at (35,47) at step 272
+
+
+# of Nodes opened during Search = 3979
+Terminated after 45msecs

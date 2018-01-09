@@ -11,7 +11,7 @@ Usage
 -----
 Just run `$ make` to compile and then execute class Fun_with_Robots.
 
-`Example run: java Fun_with_Robots (input) (output)`
+Example run: `java Fun_with_Robots (input) (output)`
 
 Authors
 ------
